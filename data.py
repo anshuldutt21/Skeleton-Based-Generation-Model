@@ -1,4 +1,4 @@
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -105,7 +105,7 @@ class Vocab(object):
 
   def write_metadata(self, fpath):
     """Writes metadata file for Tensorboard word embedding visualizer as described here:
-      https://www.tensorflow.org/get_started/embedding_viz
+      https://www.tensorflow.compat.v1.org/get_started/embedding_viz
 
     Args:
       fpath: place to write the metadata file

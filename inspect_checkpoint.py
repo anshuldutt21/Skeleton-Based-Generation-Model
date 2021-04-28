@@ -3,7 +3,7 @@ Simple script that checks if a checkpoint is corrupted with any inf/NaN values. 
   python inspect_checkpoint.py model.12345
 """
 
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import sys
 import numpy as np
 

@@ -3,7 +3,7 @@ The Code for "A Skeleton-Based Model for Promoting Coherence Among Sentences in 
 ## Requirements
 * ubuntu 16.04
 * python 3.5
-* tensorflow 1.4.1
+* tensorflow.compat.v1 1.4.1
 * nltk 3.2.5
 ## Data Source
 * [visual storytelling dataset](http://visionandlanguage.net/VIST/dataset.html)

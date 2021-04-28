@@ -1,4 +1,4 @@
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +18,7 @@
 
 import os
 import time
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import beam_search
 import data
 import json

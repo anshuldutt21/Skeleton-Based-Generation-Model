@@ -1,4 +1,4 @@
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,7 +21,7 @@ from random import shuffle
 from threading import Thread
 import time
 import numpy as np
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import data
 from nltk.tokenize import sent_tokenize
 import glob
@@ -191,7 +191,7 @@ class Batch(object):
           ex.pad_decoder_inp_targ(hps.max_dec_steps, self.pad_id)
 
       # Initialize the numpy arrays.
-      # Note: our decoder inputs and targets must be the same length for each batch (second dimension = max_dec_steps) because we do not use a dynamic_rnn for decoding. However I believe this is possible, or will soon be possible, with Tensorflow 1.0, in which case it may be best to upgrade to that.
+      # Note: our decoder inputs and targets must be the same length for each batch (second dimension = max_dec_steps) because we do not use a dynamic_rnn for decoding. However I believe this is possible, or will soon be possible, with tensorflow.compat.v1 1.0, in which case it may be best to upgrade to that.
       self.dec_batch = np.zeros((hps.batch_size, hps.max_dec_steps), dtype=np.int32)
       self.target_batch = np.zeros((hps.batch_size, hps.max_dec_steps), dtype=np.int32)
       self.dec_padding_mask = np.zeros((hps.batch_size, hps.max_dec_steps),

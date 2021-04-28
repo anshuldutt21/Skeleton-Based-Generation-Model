@@ -1,4 +1,4 @@
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,13 +14,13 @@
 # limitations under the License.
 # ==============================================================================
 
-"""This file contains code to build and run the tensorflow graph for the sequence-to-sequence model"""
+"""This file contains code to build and run the tensorflow.compat.v1 graph for the sequence-to-sequence model"""
 
 import os
 import time
 import numpy as np
-import tensorflow as tf
-from tensorflow.contrib.tensorboard.plugins import projector
+import tensorflow.compat.v1 as tf
+from tensorboard.plugins import projector
 
 FLAGS = tf.app.flags.FLAGS
 

@@ -2,7 +2,7 @@ import os
 import json
 import time
 import codecs
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import data
 import shutil
 import util

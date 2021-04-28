@@ -2,7 +2,7 @@ import os
 import json
 import time
 import codecs
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import glob
 from nltk import sent_tokenize
 FLAGS = tf.app.flags.FLAGS

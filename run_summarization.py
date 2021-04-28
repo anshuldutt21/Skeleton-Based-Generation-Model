@@ -1,4 +1,4 @@
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -23,7 +23,7 @@ import codecs
 import data
 import os
 import math
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import numpy as np
 from collections import namedtuple
 from data import Vocab

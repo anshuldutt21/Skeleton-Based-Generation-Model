@@ -1,4 +1,4 @@
-# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -22,7 +22,7 @@ import codecs
 import json
 import glob
 import numpy as np
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import data
 from nltk.tokenize import sent_tokenize
 
@@ -152,7 +152,7 @@ class Srl_Batch(object):
       #pad_encoder_inp_targ(self, max_sen_len, max_sen_num, pad_doc_id):
 
       # Initialize the numpy arrays.
-      # Note: our decoder inputs and targets must be the same length for each batch (second dimension = max_dec_steps) because we do not use a dynamic_rnn for decoding. However I believe this is possible, or will soon be possible, with Tensorflow 1.0, in which case it may be best to upgrade to that.
+      # Note: our decoder inputs and targets must be the same length for each batch (second dimension = max_dec_steps) because we do not use a dynamic_rnn for decoding. However I believe this is possible, or will soon be possible, with tensorflow.compat.v1 1.0, in which case it may be best to upgrade to that.
 
       self.enc_batch = np.zeros((hps.batch_size, hps.srl_max_enc_seq_len), dtype=np.int32)
       self.enc_lens = np.ones((hps.batch_size), dtype=np.int32)
