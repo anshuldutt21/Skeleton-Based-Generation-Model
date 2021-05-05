@@ -62,15 +62,15 @@ class Sc_Generator(object):
       hps = self._hps
 
       # if FLAGS.run_method == 'auto-encoder':
-      self._enc_text_batch = tf.placeholder(tf.int32, [hps.batch_size, hps.sc_max_enc_seq_len],
+      self._enc_text_batch = tf.placeholder(tf.int32, [hps.batch_size.value, hps.sc_max_enc_seq_len.value],
                                        name='enc_text_batch')
-      self._enc_pos_batch = tf.placeholder(tf.int32, [hps.batch_size, hps.sc_max_enc_seq_len],
+      self._enc_pos_batch = tf.placeholder(tf.int32, [hps.batch_size.value, hps.sc_max_enc_seq_len.value],
                                             name='enc_pos_batch')
-      self._enc_dep_batch = tf.placeholder(tf.int32, [hps.batch_size, hps.sc_max_enc_seq_len],
+      self._enc_dep_batch = tf.placeholder(tf.int32, [hps.batch_size.value, hps.sc_max_enc_seq_len.value],
                                             name='enc_dep_batch')
 
-      self._enc_lens = tf.placeholder(tf.int32, [hps.batch_size], name='enc_sen_lens')
-      self._rewards = tf.placeholder(tf.float32, [hps.batch_size], name = 'rewards')
+      self._enc_lens = tf.placeholder(tf.int32, [hps.batch_size.value], name='enc_sen_lens')
+      self._rewards = tf.placeholder(tf.float32, [hps.batch_size.value], name = 'rewards')
       # self._weight = tf.placeholder(tf.float32, [hps.batch_size,hps.max_enc_steps], name = "weight")
       # self.score = tf.placeholder(tf.int32, name = 'score')
 
@@ -79,9 +79,9 @@ class Sc_Generator(object):
       # self._enc_padding_mask = tf.placeholder(tf.float32, [hps.batch_size, None], name='enc_padding_mask')
 
 
-      self._dec_batch = tf.placeholder(tf.int32, [hps.batch_size, hps.sc_max_dec_seq_len], name='dec_batch')
-      self._target_batch = tf.placeholder(tf.int32, [hps.batch_size, hps.sc_max_dec_seq_len], name='target_batch')
-      self._dec_padding_mask = tf.placeholder(tf.float32, [hps.batch_size, hps.sc_max_dec_seq_len], name='dec_padding_mask')
+      self._dec_batch = tf.placeholder(tf.int32, [hps.batch_size.value, hps.sc_max_dec_seq_len.value], name='dec_batch')
+      self._target_batch = tf.placeholder(tf.int32, [hps.batch_size.value, hps.sc_max_dec_seq_len.value], name='target_batch')
+      self._dec_padding_mask = tf.placeholder(tf.float32, [hps.batch_size.value, hps.sc_max_dec_seq_len.value], name='dec_padding_mask')
       #self.reward = tf.placeholder(tf.float32, [hps.batch_size], name='reward')
 
 
@@ -110,14 +110,14 @@ class Sc_Generator(object):
 
 
 
-          cell_fw1 = tf.contrib.rnn.LSTMCell(self._hps.hidden_dim, initializer=self.rand_unif_init, state_is_tuple=True)
-          cell_fw2 = tf.contrib.rnn.LSTMCell(self._hps.hidden_dim, initializer=self.rand_unif_init, state_is_tuple=True)
+          cell_fw1 = tf.nn.rnn_cell.LSTMCell(self._hps.hidden_dim.value, initializer=self.rand_unif_init, state_is_tuple=True)
+          cell_fw2 = tf.nn.rnn_cell.LSTMCell(self._hps.hidden_dim.value, initializer=self.rand_unif_init, state_is_tuple=True)
 
-          cell_bw1 = tf.contrib.rnn.LSTMCell(self._hps.hidden_dim, initializer=self.rand_unif_init, state_is_tuple=True)
-          cell_bw2 = tf.contrib.rnn.LSTMCell(self._hps.hidden_dim, initializer=self.rand_unif_init, state_is_tuple=True)
+          cell_bw1 = tf.nn.rnn_cell.LSTMCell(self._hps.hidden_dim.value, initializer=self.rand_unif_init, state_is_tuple=True)
+          cell_bw2 = tf.nn.rnn_cell.LSTMCell(self._hps.hidden_dim.value, initializer=self.rand_unif_init, state_is_tuple=True)
 
           #cell_fw = tf.contrib.rnn.LSTMCell(self._hps.hidden_dim, initializer=self.rand_unif_init, state_is_tuple=True)
-          (encoder_outputs, fw_st, bw_st) = tf.contrib.rnn.stack_bidirectional_dynamic_rnn([cell_fw1, cell_fw2], [cell_bw1, cell_bw2], encoder_inputs, dtype=tf.float32,
+          (encoder_outputs, fw_st, bw_st) = tf.nn.bidirectional_dynamic_rnn([cell_fw1, cell_fw2], [cell_bw1, cell_bw2], encoder_inputs, dtype=tf.float32,
                                                          sequence_length=seq_len)
       return encoder_outputs, fw_st[-1], bw_st[-1]
 
@@ -128,8 +128,8 @@ class Sc_Generator(object):
 
       # input = tf.unstack(input, axis=1)
 
-      cell = tf.contrib.rnn.LSTMCell(
-          hps.hidden_dim,
+      cell = tf.nn.rnn_celln.LSTMCell(
+          hps.hidden_dim.value,
           initializer=tf.random_uniform_initializer(-0.1, 0.1, seed=113),
           state_is_tuple=True)
 
@@ -159,7 +159,7 @@ class Sc_Generator(object):
         with tf.variable_scope('sc_negetive_decoder'):
             with tf.variable_scope('output_projection'):
                 w = tf.get_variable(
-                    'w', [hps.hidden_dim, 5], dtype=tf.float32,
+                    'w', [hps.hidden_dim.value, 5], dtype=tf.float32,
                     initializer=tf.truncated_normal_initializer(stddev=1e-4))
                 v = tf.get_variable(
                     'v', [5], dtype=tf.float32,
@@ -174,21 +174,21 @@ class Sc_Generator(object):
                     loop_function_max=loop_function_max, input=emb_dec_inputs, encoder_output=encoder_output )
 
                 decoder_outputs_pretrain = tf.reshape(decoder_outputs_pretrain,
-                                                      [hps.batch_size * hps.sc_max_dec_seq_len, hps.hidden_dim])
+                                                      [hps.batch_size.value * hps.sc_max_dec_seq_len.value, hps.hidden_dim.value])
 
 
                 decoder_outputs_pretrain = tf.nn.xw_plus_b(decoder_outputs_pretrain, w, v)
 
                 self.decoder_outputs_pretrain = tf.reshape(decoder_outputs_pretrain,
-                                                      [hps.batch_size, hps.sc_max_dec_seq_len, vsize])
+                                                      [hps.batch_size.value, hps.sc_max_dec_seq_len.value, vsize])
 
                 decoder_outputs_max_generator = tf.reshape(decoder_outputs_max_generator,
-                                                           [hps.batch_size * hps.sc_max_dec_seq_len, hps.hidden_dim])
+                                                           [hps.batch_size.value * hps.sc_max_dec_seq_len.value, hps.hidden_dim.value])
 
                 decoder_outputs_max_generator = tf.nn.xw_plus_b(decoder_outputs_max_generator, w, v)
 
                 self._max_best_output = tf.reshape(tf.argmax(decoder_outputs_max_generator, 1),
-                                                   [hps.batch_size, hps.sc_max_dec_seq_len])
+                                                   [hps.batch_size.value, hps.sc_max_dec_seq_len.value])
         return self.decoder_outputs_pretrain, self._max_best_output
 
 
@@ -203,12 +203,12 @@ class Sc_Generator(object):
 
       with tf.variable_scope('sc_seq2seq'):
           # Some initializers
-          self.rand_unif_init = tf.random_uniform_initializer(-hps.rand_unif_init_mag, hps.rand_unif_init_mag, seed=123)
-          self.trunc_norm_init = tf.truncated_normal_initializer(stddev=hps.trunc_norm_init_std)
+          self.rand_unif_init = tf.random_uniform_initializer(-hps.rand_unif_init_mag.value, hps.rand_unif_init_mag.value, seed=123)
+          self.trunc_norm_init = tf.truncated_normal_initializer(stddev=hps.trunc_norm_init_std.value)
 
           # Add embedding matrix (shared by the encoder and decoder inputs)
           with tf.variable_scope('embedding'):
-              embedding = tf.get_variable('embedding', [vsize, hps.emb_dim], dtype=tf.float32,
+              embedding = tf.get_variable('embedding', [vsize, hps.emb_dim.value], dtype=tf.float32,
                                           initializer=self.trunc_norm_init)
 
 
@@ -237,7 +237,7 @@ class Sc_Generator(object):
               encoder_output, fw_st, bw_st = self._add_encoder(emb_enc_inputs, self._enc_lens)
 
               w = tf.get_variable(
-                  'w', [hps.hidden_dim*2, 5], dtype=tf.float32,
+                  'w', [hps.hidden_dim.value*2, 5], dtype=tf.float32,
                   initializer=tf.truncated_normal_initializer(stddev=1e-4))
               v = tf.get_variable(
                   'v', [5], dtype=tf.float32,
@@ -245,7 +245,7 @@ class Sc_Generator(object):
 
 
               ntime_steps = tf.shape(encoder_output)[1]
-              context_rep_flat = tf.reshape(encoder_output, [-1, hps.hidden_dim*2])
+              context_rep_flat = tf.reshape(encoder_output, [-1, hps.hidden_dim.value*2])
 
               decoder_outputs_pretrain = tf.matmul(context_rep_flat, w) + v
               self.decoder_outputs_pretrain = tf.reshape(decoder_outputs_pretrain, [-1, ntime_steps, 5])
@@ -270,7 +270,7 @@ class Sc_Generator(object):
           self._cost = tf.reduce_mean(loss)
           self._cost_re = tf.reduce_mean(loss*self._rewards)
           #self._reward_cost = tf.reduce_mean(reward_loss)
-          self.optimizer = tf.train.AdagradOptimizer(self._hps.lr, initial_accumulator_value=self._hps.adagrad_init_acc)
+          self.optimizer = tf.train.AdagradOptimizer(self._hps.lr.value, initial_accumulator_value=self._hps.adagrad_init_acc.value)
 
 
   def _add_train_op(self):
@@ -279,7 +279,7 @@ class Sc_Generator(object):
       gradients = tf.gradients(loss_to_minimize, tvars, aggregation_method=tf.AggregationMethod.EXPERIMENTAL_TREE)
 
       # Clip the gradients
-      grads, global_norm = tf.clip_by_global_norm(gradients, self._hps.max_grad_norm)
+      grads, global_norm = tf.clip_by_global_norm(gradients, self._hps.max_grad_norm.value)
 
       # Add a summary
       tf.summary.scalar('global_norm', global_norm)

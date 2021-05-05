@@ -1,4 +1,4 @@
-# Copyright 2016 The tensorflow.compat.v1 Authors. All Rights Reserved.
+# Copyright 2016 The TensorFlow Authors. All Rights Reserved.
 # Modifications Copyright 2017 Abigail See
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -22,14 +22,15 @@ import codecs
 import json
 import glob
 import numpy as np
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 import data
 import spacy
+# import en_core_web_sm
 from nltk.tokenize import sent_tokenize
 
 from nltk import tokenize
 
-FLAGS = tf.app.flags.FLAGS
+FLAGS = tf.compat.v1.app.flags.FLAGS
 class Sc_Example(object):
 
 
@@ -41,8 +42,8 @@ class Sc_Example(object):
       self.hps = hps
 
       text_sen_words = text
-      if len(text_sen_words) > hps.sc_max_enc_seq_len:
-          text_sen_words = text_sen_words[:hps.sc_max_enc_seq_len]
+      if len(text_sen_words) > hps.sc_max_enc_seq_len.value:
+          text_sen_words = text_sen_words[:hps.sc_max_enc_seq_len.value]
 
       self.enc_input_text = [vocab.word2id(w) for w in
                         text_sen_words]  # list of word ids; OOVs are represented by the id for UNK token
@@ -51,23 +52,23 @@ class Sc_Example(object):
       self.orig_input = text
 
       pos_words = pos_tagging
-      if len(pos_words) > hps.sc_max_enc_seq_len:
-          pos_words = pos_words[:hps.sc_max_enc_seq_len]
+      if len(pos_words) > hps.sc_max_enc_seq_len.value:
+          pos_words = pos_words[:hps.sc_max_enc_seq_len.value]
 
       self.enc_input_pos = [vocab.word2id_add(w) for w in
                              pos_words]  # list of word ids; OOVs are represented by the id for UNK token
 
       dependency_words = dependency
-      if len(dependency_words) > hps.sc_max_enc_seq_len:
-          dependency_words = dependency_words[:hps.sc_max_enc_seq_len]
+      if len(dependency_words) > hps.sc_max_enc_seq_len.value:
+          dependency_words = dependency_words[:hps.sc_max_enc_seq_len.value]
 
       self.enc_input_dep = [vocab.word2id_add(w) for w in
                             dependency_words]  # list of word ids; OOVs are represented by the id for UNK token
 
 
 
-      if len(label) > hps.sc_max_dec_seq_len:
-          label = label[:hps.sc_max_dec_seq_len]
+      if len(label) > hps.sc_max_dec_seq_len.value:
+          label = label[:hps.sc_max_dec_seq_len.value]
 
 
       abs_ids = []
@@ -81,7 +82,7 @@ class Sc_Example(object):
       #           label]  # list of word ids; OOVs are represented by the id for UNK token
 
       # Get the decoder input sequence and target sequence
-      self.dec_input, self.target = self.get_dec_inp_targ_seqs(abs_ids, hps.sc_max_dec_seq_len,
+      self.dec_input, self.target = self.get_dec_inp_targ_seqs(abs_ids, hps.sc_max_dec_seq_len.value,
                                                                3,
                                                                4)  # max_sen_num,max_len, start_doc_id, end_doc_id,start_id, stop_id
       self.dec_len = len(self.dec_input)
@@ -128,7 +129,7 @@ class Sc_Example(object):
 
 
 
-
+        max_sen_len = max_sen_len.value
         while len(self.dec_input) < max_sen_len:
             self.dec_input.append(2)
 
@@ -176,29 +177,29 @@ class Sc_Batch(object):
 
       for ex in example_list:
           ex.pad_decoder_inp_targ(hps.sc_max_dec_seq_len)
-          ex.pad_encoder_inp_targ(hps.sc_max_enc_seq_len, self.pad_id)
+          ex.pad_encoder_inp_targ(hps.sc_max_enc_seq_len.value, self.pad_id)
       #pad_encoder_inp_targ(self, max_sen_len, max_sen_num, pad_doc_id):
 
       # Initialize the numpy arrays.
-      # Note: our decoder inputs and targets must be the same length for each batch (second dimension = max_dec_steps) because we do not use a dynamic_rnn for decoding. However I believe this is possible, or will soon be possible, with tensorflow.compat.v1 1.0, in which case it may be best to upgrade to that.
+      # Note: our decoder inputs and targets must be the same length for each batch (second dimension = max_dec_steps) because we do not use a dynamic_rnn for decoding. However I believe this is possible, or will soon be possible, with Tensorflow 1.0, in which case it may be best to upgrade to that.
 
-      self.enc_text_batch = np.zeros((hps.batch_size, hps.sc_max_enc_seq_len), dtype=np.int32)
-      self.enc_pos_batch = np.zeros((hps.batch_size, hps.sc_max_enc_seq_len), dtype=np.int32)
-      self.enc_dep_batch = np.zeros((hps.batch_size, hps.sc_max_enc_seq_len), dtype=np.int32)
-      self.enc_lens = np.ones((hps.batch_size), dtype=np.int32)
-      #self.dec_lens = np.zeros((hps.batch_size), dtype=np.int32)
-      self.dec_batch = np.zeros((hps.batch_size, hps.sc_max_dec_seq_len), dtype=np.int32)
-      self.target_batch = np.zeros((hps.batch_size, hps.sc_max_dec_seq_len), dtype=np.int32)
-      self.dec_padding_mask = np.zeros((hps.batch_size, hps.sc_max_dec_seq_len),
+      self.enc_text_batch = np.zeros((hps.batch_size.value, hps.sc_max_enc_seq_len.value), dtype=np.int32)
+      self.enc_pos_batch = np.zeros((hps.batch_size.value, hps.sc_max_enc_seq_len.value), dtype=np.int32)
+      self.enc_dep_batch = np.zeros((hps.batch_size.value, hps.sc_max_enc_seq_len.value), dtype=np.int32)
+      self.enc_lens = np.ones((hps.batch_size.value), dtype=np.int32)
+      #self.dec_lens = np.zeros((hps.batch_size.value), dtype=np.int32)
+      self.dec_batch = np.zeros((hps.batch_size.value, hps.sc_max_dec_seq_len.value), dtype=np.int32)
+      self.target_batch = np.zeros((hps.batch_size.value, hps.sc_max_dec_seq_len.value), dtype=np.int32)
+      self.dec_padding_mask = np.zeros((hps.batch_size.value, hps.sc_max_dec_seq_len.value),
                                        dtype=np.float32)
                                        
-      #self.labels = np.zeros((hps.batch_size, hps.max_enc_sen_num, hps.max_enc_seq_len), dtype=np.int32)
-      #self.dec_sen_lens = np.zeros((hps.batch_size, hps.srl_max_dec_sen_num), dtype=np.int32)
-      self.dec_lens = np.zeros((hps.batch_size), dtype=np.int32)
+      #self.labels = np.zeros((hps.batch_size.value, hps.max_enc_sen_num, hps.max_enc_seq_len), dtype=np.int32)
+      #self.dec_sen_lens = np.zeros((hps.batch_size.value, hps.srl_max_dec_sen_num), dtype=np.int32)
+      self.dec_lens = np.zeros((hps.batch_size.value), dtype=np.int32)
       self.orig_outputs = []
       self.label_outputs = []
       self.orig_input = []
-      self.rewards = np.zeros((hps.batch_size), dtype=np.int32)
+      self.rewards = np.zeros((hps.batch_size.value), dtype=np.int32)
       for i, ex in enumerate(example_list):
           #self.new_review_text = []
           #self.labels[i]=np.array([[ex.label for k in range(hps.max_enc_seq_len) ] for j in range(hps.max_enc_sen_num)])
@@ -217,7 +218,7 @@ class Sc_Batch(object):
 
 
       self.target_batch = np.reshape(self.target_batch,
-                                     [hps.batch_size, hps.sc_max_dec_seq_len])
+                                     [hps.batch_size.value, hps.sc_max_dec_seq_len.value])
 
 
       for i in range(len(self.target_batch)):
@@ -226,14 +227,14 @@ class Sc_Batch(object):
                   self.dec_padding_mask[i][k] = 1
 
 
-      self.dec_batch = np.reshape(self.dec_batch, [hps.batch_size, hps.sc_max_dec_seq_len])
-      self.dec_lens = np.reshape(self.dec_lens, [hps.batch_size])
+      self.dec_batch = np.reshape(self.dec_batch, [hps.batch_size.value, hps.sc_max_dec_seq_len.value])
+      self.dec_lens = np.reshape(self.dec_lens, [hps.batch_size.value])
 
-      self.enc_text_batch = np.reshape(self.enc_text_batch, [hps.batch_size, hps.sc_max_enc_seq_len])
-      self.enc_pos_batch = np.reshape(self.enc_pos_batch, [hps.batch_size, hps.sc_max_enc_seq_len])
-      self.enc_dep_batch = np.reshape(self.enc_dep_batch, [hps.batch_size, hps.sc_max_enc_seq_len])
-      self.enc_lens = np.reshape(self.enc_lens, [hps.batch_size])
-      #self.labels = np.reshape(self.labels, [hps.batch_size * hps.max_enc_sen_num, hps.max_enc_seq_len])
+      self.enc_text_batch = np.reshape(self.enc_text_batch, [hps.batch_size.value, hps.sc_max_enc_seq_len.value])
+      self.enc_pos_batch = np.reshape(self.enc_pos_batch, [hps.batch_size.value, hps.sc_max_enc_seq_len.value])
+      self.enc_dep_batch = np.reshape(self.enc_dep_batch, [hps.batch_size.value, hps.sc_max_enc_seq_len.value])
+      self.enc_lens = np.reshape(self.enc_lens, [hps.batch_size.value])
+      #self.labels = np.reshape(self.labels, [hps.batch_size.value * hps.max_enc_sen_num, hps.max_enc_seq_len])
 
 
 
@@ -243,8 +244,8 @@ class Sc_GenBatcher(object):
     def __init__(self, vocab, hps):
         self._vocab = vocab
         self._hps = hps
-        self.nlp = spacy.load('en_core_web_sm')
-
+        self.nlp = spacy.load("en_core_web_sm")
+        # self.nlp = en_core_web_sm.load()
 
         self.train_queue = self.fill_example_queue("data/trainfeature02.json")
         self.valid_queue = self.fill_example_queue("data/validfeature02.json")
@@ -273,49 +274,49 @@ class Sc_GenBatcher(object):
         all_batch = []
 
         if mode == "train":
-            num_batches = int(len(self.train_queue) / self._hps.batch_size)
+            num_batches = int(len(self.train_queue) / self._hps.batch_size.value)
 
 
         elif mode == 'validation':
-            num_batches = int(len(self.valid_queue) / self._hps.batch_size)
+            num_batches = int(len(self.valid_queue) / self._hps.batch_size.value)
 
         elif mode == 'test':
-            num_batches = int(len(self.test_queue) / self._hps.batch_size)
+            num_batches = int(len(self.test_queue) / self._hps.batch_size.value)
 
         elif mode == 'pre-train':
-            num_batches = int(len(self.predict_train_queue) / self._hps.batch_size)
+            num_batches = int(len(self.predict_train_queue) / self._hps.batch_size.value)
 
         elif mode == 'pre-valid':
-            num_batches = int(len(self.predict_valid_queue) / self._hps.batch_size)
+            num_batches = int(len(self.predict_valid_queue) / self._hps.batch_size.value)
 
         elif mode == 'pre-test':
-            num_batches = int(len(self.predict_test_queue) / self._hps.batch_size)
+            num_batches = int(len(self.predict_test_queue) / self._hps.batch_size.value)
 
 
         for i in range(0, num_batches):
             batch = []
             if mode == 'train':
                 batch += (
-                self.train_queue[i * self._hps.batch_size:i * self._hps.batch_size + self._hps.batch_size])
+                self.train_queue[i * self._hps.batch_size.value:i * self._hps.batch_size.value + self._hps.batch_size.value])
             elif mode == 'validation':
                 batch += (
-                self.valid_queue[i * self._hps.batch_size:i * self._hps.batch_size + self._hps.batch_size])
+                self.valid_queue[i * self._hps.batch_size.value:i * self._hps.batch_size.value + self._hps.batch_size.value])
 
             elif mode == 'test':
                 batch += (
-                self.test_queue[i * self._hps.batch_size:i * self._hps.batch_size + self._hps.batch_size])
+                self.test_queue[i * self._hps.batch_size.value:i * self._hps.batch_size.value + self._hps.batch_size.value])
 
             elif mode ==  'pre-train':
                 batch += (
-                self.predict_train_queue[i * self._hps.batch_size:i * self._hps.batch_size + self._hps.batch_size])
+                self.predict_train_queue[i * self._hps.batch_size.value:i * self._hps.batch_size.value + self._hps.batch_size.value])
 
             elif mode ==  'pre-valid':
                 batch += (
-                self.predict_valid_queue[i * self._hps.batch_size:i * self._hps.batch_size + self._hps.batch_size])
+                self.predict_valid_queue[i * self._hps.batch_size.value:i * self._hps.batch_size.value + self._hps.batch_size.value])
 
             elif mode ==  'pre-test':
                 batch += (
-                self.predict_test_queue[i * self._hps.batch_size:i * self._hps.batch_size + self._hps.batch_size])
+                self.predict_test_queue[i * self._hps.batch_size.value:i * self._hps.batch_size.value + self._hps.batch_size.value])
 
             all_batch.append(Sc_Batch(batch, self._hps, self._vocab))
 

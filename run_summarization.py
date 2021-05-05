@@ -494,9 +494,11 @@ def main(unused_argv):
 
     tf.set_random_seed(111)  # a seed value for randomness
 
-    if hps_generator.mode == 'train':
+    print(hps_generator.mode.value)
+    if hps_generator.mode.value == 'train':
 
         print("Start pre-training......")
+        tf.disable_eager_execution()
         sc_model = Sc_Generator(hps_sc_generator, vocab)
 
         sess_sc, saver_sc, train_dir_sc = setup_training_sc_generator(sc_model)

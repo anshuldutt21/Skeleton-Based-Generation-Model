@@ -1,13 +1,25 @@
-2021-04-28 17:38:36.167870: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
-2021-04-28 17:38:36.167931: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2021-05-05 19:07:58.588738: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-05-05 19:07:58.588775: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
 INFO:tensorflow:Starting running in train mode...
-I0428 17:38:38.116253 140179189049152 run_summarization.py:440] Starting running in train mode...
+I0505 19:07:59.865019 140239772190528 run_summarization.py:440] Starting running in train mode...
 /home/anshul/lbp_venv/lib/python3.8/site-packages/spacy/util.py:275: UserWarning: [W031] Model 'en_core_web_sm' (2.2.0) requires spaCy v2.2 and is incompatible with the current spaCy version (2.3.5). This may lead to unexpected results or runtime errors. To resolve this, download a newer compatible model or retrain your custom model with the current spaCy version. For more details and available updates, run: python -m spacy validate
   warnings.warn(warn_msg)
+INFO:tensorflow:Building generator graph...
+I0505 19:08:27.516777 140239772190528 sc_model.py:307] Building generator graph...
+/home/anshul/lbp_venv/lib/python3.8/site-packages/tensorflow/python/keras/layers/legacy_rnn/rnn_cell_impl.py:909: UserWarning: `tf.nn.rnn_cell.LSTMCell` is deprecated and will be removed in a future version. This class is equivalent as `tf.keras.layers.LSTMCell`, and will be replaced by that in Tensorflow 2.0.
+  warnings.warn("`tf.nn.rnn_cell.LSTMCell` is deprecated and will be "
+WARNING:tensorflow:From /home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_model.py:120: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+W0505 19:08:27.549509 140239772190528 deprecation.py:330] From /home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_model.py:120: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
 max_size of vocab was specified as 20000; we now have 20000 words. Stopping reading.
 Finished constructing vocabulary of 20000 total words. Last word added: richie
+train
+Start pre-training......
 Traceback (most recent call last):
-  File "run_summarization.py", line 653, in <module>
+  File "run_summarization.py", line 655, in <module>
     tf.app.run()
   File "/home/anshul/lbp_venv/lib/python3.8/site-packages/tensorflow/python/platform/app.py", line 40, in run
     _run(main=main, argv=argv, flags_parser=_parse_flags_tolerate_undef)
@@ -15,12 +27,22 @@ Traceback (most recent call last):
     _run_main(main, args)
   File "/home/anshul/lbp_venv/lib/python3.8/site-packages/absl/app.py", line 251, in _run_main
     sys.exit(main(argv))
-  File "run_summarization.py", line 488, in main
-    sc_batcher = Sc_GenBatcher(vocab, hps_sc_generator)
-  File "/home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_batch.py", line 249, in __init__
-    self.train_queue = self.fill_example_queue("data/trainfeature02.json")
-  File "/home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_batch.py", line 472, in fill_example_queue
-    example = Sc_Example(text, label, pos_tagging, compression, dependency, self._vocab, self._hps)
-  File "/home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_batch.py", line 44, in __init__
-    if len(text_sen_words) > hps.sc_max_enc_seq_len:
-TypeError: '>' not supported between instances of 'int' and 'Flag'
+  File "run_summarization.py", line 504, in main
+    sess_sc, saver_sc, train_dir_sc = setup_training_sc_generator(sc_model)
+  File "run_summarization.py", line 147, in setup_training_sc_generator
+    model.build_graph() # build the graph
+  File "/home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_model.py", line 310, in build_graph
+    self._build_model()
+  File "/home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_model.py", line 237, in _build_model
+    encoder_output, fw_st, bw_st = self._add_encoder(emb_enc_inputs, self._enc_lens)
+  File "/home/anshul/Downloads/LAB BASED PROJECT/Skeleton-Based-Generation-Model/sc_model.py", line 120, in _add_encoder
+    (encoder_outputs, fw_st, bw_st) = tf.nn.bidirectional_dynamic_rnn([cell_fw1, cell_fw2], [cell_bw1, cell_bw2], encoder_inputs, dtype=tf.float32,
+  File "/home/anshul/lbp_venv/lib/python3.8/site-packages/tensorflow/python/util/deprecation.py", line 337, in new_func
+    return func(*args, **kwargs)
+  File "/home/anshul/lbp_venv/lib/python3.8/site-packages/tensorflow/python/util/dispatch.py", line 206, in wrapper
+    return target(*args, **kwargs)
+  File "/home/anshul/lbp_venv/lib/python3.8/site-packages/tensorflow/python/ops/rnn.py", line 432, in bidirectional_dynamic_rnn
+    rnn_cell_impl.assert_like_rnncell("cell_fw", cell_fw)
+  File "/home/anshul/lbp_venv/lib/python3.8/site-packages/tensorflow/python/keras/layers/legacy_rnn/rnn_cell_impl.py", line 104, in assert_like_rnncell
+    raise TypeError("The argument {!r} ({}) is not an RNNCell: {}.".format(
+TypeError: The argument 'cell_fw' ([<tensorflow.python.keras.layers.legacy_rnn.rnn_cell_impl.LSTMCell object at 0x7f8b5558caf0>, <tensorflow.python.keras.layers.legacy_rnn.rnn_cell_impl.LSTMCell object at 0x7f8b533f64c0>]) is not an RNNCell: 'output_size' property is missing, 'state_size' property is missing, either 'zero_state' or 'get_initial_state' method is required, is not callable.
