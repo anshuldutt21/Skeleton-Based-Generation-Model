@@ -1,0 +1,1990 @@
+{"example": "the fallout over an video uploaded to the internet continues .", "label": "0"}
+{"example": "taobao.com announced , initiate shopping dispute first problem responsibility system .", "label": "0"}
+{"example": "about 70,000 dorel baby car seat carriers are being recalled in canada .", "label": "0"}
+{"example": "home depot employees john lukasavage and ed morales were hailed as heroes .", "label": "0"}
+{"example": "astellas pharma inc. will commence a tender offer to acquire all shares of", "label": "0"}
+{"example": "an cheerleading coach is paralyzed from neck down after a weekend boating accident .", "label": "0"}
+{"example": "leaders repeating the mantra for audiences", "label": "0"}
+{"example": "the family accused from today insisted he was still alive .", "label": "0"}
+{"example": "a panel has declined to conduct proceedings .", "label": "0"}
+{"example": "a new law that went into effect is discriminating against college students .", "label": "0"}
+{"example": "indian car sales jumped for a sixth month in july .", "label": "0"}
+{"example": "tributes have been paid to building after died at the age of 85 .", "label": "0"}
+{"example": "lance armstrong has hit back at winner as a war .", "label": "0"}
+{"example": "transglobe energy corporation provides a and update for the fourth quarter of 2008 .", "label": "0"}
+{"example": "the battered england will focus on getting their basics right .", "label": "0"}
+{"example": "the european ombudsman , p. nikiforos diamandouros , received the number of complaints and associations .", "label": "0"}
+{"example": "the us food and drug administration has issued a complete response letter 's regarding pegintron", "label": "0"}
+{"example": "gary mcsheffrey did not want to be substituted .", "label": "0"}
+{"example": "interest rates are close to .", "label": "0"}
+{"example": "john brennan refused to be drawn on his future .", "label": "0"}
+{"example": "authorities a man urinated on the side of the police station .", "label": "0"}
+{"example": "five marines were injured .", "label": "0"}
+{"example": "officers made him stand outside without a coat on one of the cold nights .", "label": "0"}
+{"example": "going", "label": "0"}
+{"example": "naomi the prime ankara", "label": "0"}
+{"example": "capacity in canada 's industrial sector fell more than expected and to .", "label": "0"}
+{"example": "unicef has initiated a sanitation project in sindh under under the 2011 early recovery framework .", "label": "0"}
+{"example": "life it is representing a $ 1.5-billion global anti - aging company .", "label": "0"}
+{"example": "graeme ballard chorley will present the improving lives ' award .", "label": "0"}
+{"example": "hickory has opened a playground to honor zahra baker .", "label": "0"}
+{"example": "jury selection was expected to begin in the trial of a chula vista city councilman .", "label": "0"}
+{"example": "uk stocks gained for the first time in four days .", "label": "0"}
+{"example": "2013 is the year of the wildflower and encap has four wildflower mixes .", "label": "0"}
+{"example": "mtv is cancelling show shore .", "label": "0"}
+{"example": "a man died after he fell off his bike along route 46 in the city of rome .", "label": "0"}
+{"example": "ac milan playmaker andrea pirlo will make his first start for the club .", "label": "0"}
+{"example": "a jury has found a math teacher not guilty .", "label": "0"}
+{"example": "the country 's international reserves reached $ 38.87 billion .", "label": "0"}
+{"example": "jeff moorad reached an agreement for his group to buy the .", "label": "0"}
+{"example": "barack obama will visit turkey .", "label": "0"}
+{"example": "gavin henson may have blown his chance .", "label": "0"}
+{"example": "a sumter minister is being accused of assaulting three female church members .", "label": "0"}
+{"example": "noel gallagher has announced the support acts , .", "label": "0"}
+{"example": "progress energy florida will delay operations for a power plant in levy county .", "label": "0"}
+{"example": "prices of most food items have continued to rise .", "label": "0"}
+{"example": "rockwell diamonds has delayed filing its annual report to .", "label": "0"}
+{"example": "a spring city woman was arrested , the first time for assaulting her estranged husband", "label": "0"}
+{"example": "a perth judge has ruled a woman must remove her niqab .", "label": "0"}
+{"example": "women and children rights groups are disappointed over the light sentences .", "label": "0"}
+{"example": "organizers are getting ready for the lifelight festival .", "label": "0"}
+{"example": "five new collective agreements have been reached between ontario northland .", "label": "0"}
+{"example": "sony computer entertainment had acquired media molecule .", "label": "0"}
+{"example": "research and orange uk will launch the you - rate for the blackberry .", "label": "0"}
+{"example": "the sabres are getting healthy , .", "label": "0"}
+{"example": "the us trade deficit shrank unexpectedly in june .", "label": "0"}
+{"example": "a fire destroyed a garage full of gear .", "label": "0"}
+{"example": "willow bend academy 's lewisville school announced may 27 , 2012 alina sayani as their 2012 valedictorian .", "label": "0"}
+{"example": "a hospital is a place you go to get well .", "label": "0"}
+{"example": "matthew morison won a silver medal in the parallel giant slalom .", "label": "0"}
+{"example": "of transportation ray lahood said he is stepping down , marking the latest exit .", "label": "0"}
+{"example": "a police officer has been attacked .", "label": "0"}
+{"example": "faith evans has pleaded no contest to reckless driving .", "label": "0"}
+{"example": "jeff bridges has won an online competition .", "label": "0"}
+{"example": "ryan phillippe is set to step behind the camera to make his directorial debut .", "label": "0"}
+{"example": "donald young reached his second semifinal by beating go soeda of japan 6 1 at the thailand open .", "label": "0"}
+{"example": "stortford boss martin hayes may be tempted to make a move for dave rainford .", "label": "0"}
+{"example": "jenson button took a detour .", "label": "0"}
+{"example": "how this year 's twist on american idol will work .", "label": "0"}
+{"example": "the postal service is launching an mail recycling program .", "label": "0"}
+{"example": "shazam has extended its reach in the market .", "label": "0"}
+{"example": "the body of an asylum seeker who died in detention has been returned to his family .", "label": "0"}
+{"example": "anna kournikova sold her miami mansion for $ 7.4 million .", "label": "0"}
+{"example": "a burnley man has been banned from entering burnley town centre .", "label": "0"}
+{"example": "a customized enhanced google maps runs on the world 's mobile os - webos", "label": "0"}
+{"example": "tokyo stocks opened weaker thursday .", "label": "0"}
+{"example": "thais evacuated from egypt have arrived safely .", "label": "0"}
+{"example": "a cheektowaga man reported he was robbed at gunpoint .", "label": "0"}
+{"example": "tougher sentences will be handed to people .", "label": "0"}
+{"example": "merval stock index jumped 3.34 % .", "label": "0"}
+{"example": "dryships has secured loan covenant waivers .", "label": "0"}
+{"example": "the linnets share the bank holiday spoils at retford .", "label": "0"}
+{"example": "ron paul is suspending his campaign for president .", "label": "0"}
+{"example": "ali fedotowsky is dating kevin manno .", "label": "0"}
+{"example": "a ninth horse has died from the hendra virus .", "label": "0"}
+{"example": "charlie crist visited disney friday .", "label": "0"}
+{"example": "the kansas city royals have claimed outfielder quintin berry off waivers .", "label": "0"}
+{"example": "tayside has launched a pilot involves officers .", "label": "0"}
+{"example": "a court strikes down tighter home standards .", "label": "0"}
+{"example": "quest ce it will be moving to new corporate headquarters .", "label": "0"}
+{"example": "umbc men 's swimming and diving fell to navy saturday .", "label": "0"}
+{"example": "a morganton man was convicted of multiple felonies and sentenced to at .", "label": "0"}
+{"example": "bryan cranston has signed on to star in the adam musical .", "label": "0"}
+{"example": "what 's next for regis philbin", "label": "0"}
+{"example": "parliament is expected to rise sine die .", "label": "0"}
+{"example": "scouts in llanelli are seeking funds to upgrade their hall .", "label": "0"}
+{"example": "new orleans police wasted no time cleaning up the homeless camp that has been .", "label": "0"}
+{"example": "the former french president jacques chirac is ordered to stand trial in corruption case .", "label": "0"}
+{"example": "the bishop of st germans , is to retire at .", "label": "0"}
+{"example": "the centre wants to find a just , honourable and practicable solution to the telangana statehood demand .", "label": "0"}
+{"example": "india offered to resume talks with pakistan .", "label": "0"}
+{"example": "9/11 changed the", "label": "0"}
+{"example": "barack obama called for immigration reform .", "label": "0"}
+{"example": "nicolas sarkozy admitted made during his first year but he would press on .", "label": "0"}
+{"example": "two , the temptations and the supremes , celebrate 50th anniversaries .", "label": "0"}
+{"example": "lisa marie presley follows in her dad 's footsteps 35 years .", "label": "0"}
+{"example": "a woman man were found dead in a lasalle apartment .", "label": "0"}
+{"example": "a man died in a motorcycle crash .", "label": "0"}
+{"example": "texas tech announced plans that will put the red raider baseball program .", "label": "0"}
+{"example": "gandhi india would give a fitting reply to terrorism .", "label": "0"}
+{"example": "silicon valley is betting online gambling is .", "label": "0"}
+{"example": "timana tahu endured a return .", "label": "0"}
+{"example": "one of america 's newspaper publishers , arthur ochs sulzberger died at the age of 86 .", "label": "0"}
+{"example": "they have warned of more similar attacks to take revenge .", "label": "0"}
+{"example": "salamander energy plc the asia focussed independent oil and gas", "label": "0"}
+{"example": "avery johnson was ejected for the first time this season .", "label": "0"}
+{"example": "it was the best ball of my cricket career .", "label": "0"}
+{"example": "siler city officials moved to impose water restrictions", "label": "0"}
+{"example": "turkey accused syria of state terrorism is flying", "label": "0"}
+{"example": "two tna candidates have withdrawn their candidacy .", "label": "0"}
+{"example": "ann coulter will have her jaw wired shut after she .", "label": "0"}
+{"example": "eurozone recovery gained momentum , led by germany and , survey data showed .", "label": "0"}
+{"example": "boston red sox secured a 0 win over philadelphia phillies", "label": "0"}
+{"example": "g4s , have donated \u00a3 2.5 million to the forces .", "label": "0"}
+{"example": "amitabh bachchan to be launched kbc can change one 's life .", "label": "0"}
+{"example": "a blood has saved the life of a victorian woman .", "label": "0"}
+{"example": "live nation entertainment ranks is moving systems .", "label": "0"}
+{"example": "pakistan will release 101 indian prisoners .", "label": "0"}
+{"example": "vancouver kyle wellwood became the latest canucks player injured he broke his big toe .", "label": "0"}
+{"example": "its us sales fell 14 percent .", "label": "0"}
+{"example": "amazon.com inc. is dropping its affiliation with a conservative political group .", "label": "0"}
+{"example": "the australian dollar has closed higher after tracking a japanese yen .", "label": "0"}
+{"example": "arsenal boss arsene wenger has backed to make a sensational return to squad for the 2010 world cup .", "label": "0"}
+{"example": "gordana jankulovska has suggested for bulgaria exchange police officers .", "label": "0"}
+{"example": "european stocks are seen opening flat to slightly higher .", "label": "0"}
+{"example": "a truck carrying a stainless steel pressurized chemical reactor vessel broke .", "label": "0"}
+{"example": "kazuto ioka beat by decision title bout between japanese boxers .", "label": "0"}
+{"example": "peter andre wants spice girl find .", "label": "0"}
+{"example": "gordon brown called for a new global economic and social contract .", "label": "0"}
+{"example": "guwahati the death raised questions about the facilities available at the airport .", "label": "0"}
+{"example": "a hybrid bus can run .", "label": "0"}
+{"example": "will have more 's causing in his hand .", "label": "0"}
+{"example": "a bear cub was spotted between salisbury and church streets .", "label": "0"}
+{"example": "two gunmen robbed a radio shack just .", "label": "0"}
+{"example": "apple can survive without steve jobs .", "label": "0"}
+{"example": "the buysafetelemarketing alliance has launched its interactive", "label": "0"}
+{"example": "lesbian tammy baldwin will address the", "label": "0"}
+{"example": "the american heart association released cpr guidelines for untrained people .", "label": "0"}
+{"example": "caosys , introduced cs*compliance foundation", "label": "0"}
+{"example": "china it is ready to accept imports of us pork", "label": "0"}
+{"example": "i use to love second life me to produce real id", "label": "0"}
+{"example": "gary burns has called for glbt community support .", "label": "0"}
+{"example": "beyonc\u00e9 used to iron her hair she was in destiny 's child .", "label": "0"}
+{"example": "effort to support the state 's colleges .", "label": "0"}
+{"example": "scania will open a branch in karbala .", "label": "0"}
+{"example": "john kerry warned incoming republicans morning .", "label": "0"}
+{"example": "jason taylor was not wearing his no . 99 jersey .", "label": "0"}
+{"example": "greg norman has pulled out of next month 's australian open in .", "label": "0"}
+{"example": "tandem skydive operators are grounded .", "label": "0"}
+{"example": "woolworths closed .", "label": "0"}
+{"example": "governor bob riley declared an state of emergency in due to the imminent threat .", "label": "0"}
+{"example": "heather dubrow is going malibu country .", "label": "0"}
+{"example": "dinara safina retired with a lower back injury", "label": "0"}
+{"example": "alicia keys have raised $ million for an aids charity and , with lived .", "label": "0"}
+{"example": "the north american rig count continued its upward trend .", "label": "0"}
+{"example": "france is sending yellow vaccine to paraguay .", "label": "0"}
+{"example": "the first annual citywide earthquake preparedness drill will take place .", "label": "0"}
+{"example": "mick jagger are like brothers who can argue each other .", "label": "0"}
+{"example": "a ferndale man pleaded guilty for abusing", "label": "0"}
+{"example": "fccla students include on row", "label": "0"}
+{"example": "sands corp. announced its board of directors has approved a 2012 capital budget of $ 819 million .", "label": "0"}
+{"example": "the indian people have made the right choice .", "label": "0"}
+{"example": "alicia keys will each direct a film about breast cancer .", "label": "0"}
+{"example": "the government is planning to deploy school guards .", "label": "0"}
+{"example": "valeant canada limited has received for insomnia drug sublinox .", "label": "0"}
+{"example": "motorola inc. said its net profits fell 84 per cent .", "label": "0"}
+{"example": "police seven people were killed and seven more were wounded .", "label": "0"}
+{"example": "four sri lankan housemaids are stranded in gaza .", "label": "0"}
+{"example": "christopher dodd will urge congress and the obama to direct as much as $ 125 billion in and money", "label": "0"}
+{"example": "jeff burton criticized congress .", "label": "0"}
+{"example": "robbers used an rifle to hold up a taco stand in south salt lake .", "label": "0"}
+{"example": "apple 's iphone has the failure rate of rim 's blackberry .", "label": "0"}
+{"example": "al franken disagrees with michele bachmann rights .", "label": "0"}
+{"example": "ps3 shortages are possible .", "label": "0"}
+{"example": "anne murray is releasing a memoir called this fall .", "label": "0"}
+{"example": "spandau ballet have added an extra birmingham date to their comeback tour .", "label": "0"}
+{"example": "he is seeking to overturn his june 2012 insider trading conviction .", "label": "0"}
+{"example": "an homeless man was held for trial .", "label": "0"}
+{"example": "the e cigarette allows smoke thousands are turning to vaping rather than the cigarette .", "label": "0"}
+{"example": "- yin chen led the baltimore orioles to a 7 - 1 victory against the boston red sox .", "label": "0"}
+{"example": "two philadelphia police officers were shot but uninjured .", "label": "0"}
+{"example": "jade goodys widower jack tweed celebrated his release by throwing a party .", "label": "0"}
+{"example": "ministers elections have blamed their failure on voter bribery .", "label": "0"}
+{"example": "researchers investigated enteral nutrition and caloric requirements .", "label": "0"}
+{"example": "anacom received an average 24 complaints per day .", "label": "0"}
+{"example": "brazil will need to find $ us 82.4bn to all of its rail projects .", "label": "0"}
+{"example": "a rwandan paper , , has suspended publication .", "label": "0"}
+{"example": "united states has issued travel advisory for japan .", "label": "0"}
+{"example": "vyatta has launched three new - range routing", "label": "0"}
+{"example": "pontiac a pontiac businessman was stabbed to death , and a homeless man is in custody .", "label": "0"}
+{"example": "french unions extended a rail strike into a second day oil refineries .", "label": "0"}
+{"example": "a fishing boat was towed to safety .", "label": "0"}
+{"example": "price of gold in vietnam retreated marginally", "label": "0"}
+{"example": "the ms university revoked suspension of six students .", "label": "0"}
+{"example": "factory orders climbed more than expected in june .", "label": "0"}
+{"example": "theanine may reduce anxiety .", "label": "0"}
+{"example": "eight post offices in arkansas are .", "label": "0"}
+{"example": "sheikh nasser bin zayed , , died .", "label": "0"}
+{"example": "a mayflower attorney has been suspended for two years .", "label": "0"}
+{"example": "nautilus inc. said is consolidating its manufacturing distribution facilities .", "label": "0"}
+{"example": "a calf injury has ruled gavin henson out .", "label": "0"}
+{"example": "eskom wants to apply for credits for medupi", "label": "0"}
+{"example": "special rail fares for 2012 olympic spectators .", "label": "0"}
+{"example": "egypt tightened its security measures in the sinai peninsula .", "label": "0"}
+{"example": "johnny depp has been made an honorary member of the comanche nation", "label": "0"}
+{"example": "kate winslet just ca n't get enough .", "label": "0"}
+{"example": "all three shootings were related , .", "label": "0"}
+{"example": "corporate sponsors have revived plans for a fourth of july fireworks show .", "label": "0"}
+{"example": "morgan stanley has frozen talks on a merger with bank reported", "label": "0"}
+{"example": "a burglar was caught in the act .", "label": "0"}
+{"example": "robbie mcewen was hurt he fell in the closing stages .", "label": "0"}
+{"example": "kate winslet , , is expecting her third child first .", "label": "0"}
+{"example": "india will launch a forest satellite .", "label": "0"}
+{"example": "a sex offender was sentenced to 16 months in prison .", "label": "0"}
+{"example": "decatur police are hosting four german police officers .", "label": "0"}
+{"example": "the summer of 2010 , has begun in a dramatic fashion .", "label": "0"}
+{"example": "the canadian police have apologised to a polish immigrant .", "label": "0"}
+{"example": "laos will host its tournament .", "label": "0"}
+{"example": "cathay pacific airways has reopened its first lounge in frankfurt international airport refurbishment .", "label": "0"}
+{"example": "believe college students shoulder the blame .", "label": "0"}
+{"example": "the railways has stepped up summer safety measures under division of central railway", "label": "0"}
+{"example": "elton john will be honoured in poland .", "label": "0"}
+{"example": "pirates pitcher chris jakubauskas was hit in the face .", "label": "0"}
+{"example": "grocer the fresh market is planning an ipo which could raise $ 345 million .", "label": "0"}
+{"example": "it 's the first year .", "label": "0"}
+{"example": "preliminary tests have found the e85 gas leak will have only mild effects .", "label": "0"}
+{"example": "missouri 's house has approved a tax cut .", "label": "0"}
+{"example": "seven missing after argentine ship crash", "label": "0"}
+{"example": "a huge cache of arms , was seized they", "label": "0"}
+{"example": "he had planned to retire .", "label": "0"}
+{"example": "the of witcher 3 is 35 times larger than witcher 2 .", "label": "0"}
+{"example": "mario balotelli has expressed his satisfaction he .", "label": "0"}
+{"example": "microsoft gears of war 3 topped 3 million in sales during its first week .", "label": "0"}
+{"example": "susman godfrey llp provides notice of settlement to class members in", "label": "0"}
+{"example": "ed miliband , will warn of a cost of living crisis .", "label": "0"}
+{"example": "pacifiers may stunt the emotional development of baby boys .", "label": "0"}
+{"example": "sony will continue its investments in turkey .", "label": "0"}
+{"example": "syria is not in civil war but is fighting terrorists .", "label": "0"}
+{"example": "harris corporation has received a $ 19 million order for an system to provide command and control .", "label": "0"}
+{"example": "canon said its net profit nearly doubled to $ on equipment .", "label": "0"}
+{"example": "justin timberlake has been named the most stylish man in america .", "label": "0"}
+{"example": "tata tea has tied up with football giants inter milan .", "label": "0"}
+{"example": "iberia launched a new weekly service .", "label": "0"}
+{"example": "the elevator has fallen .", "label": "0"}
+{"example": "steven neuhaus kirwan died while in the hospital .", "label": "0"}
+{"example": "grete waitz , the runner died .", "label": "0"}
+{"example": "ma biao was elected chairman .", "label": "0"}
+{"example": "five young boys have confessed to pelting a passing train .", "label": "0"}
+{"example": "barack obama will ease limits on family travel .", "label": "0"}
+{"example": "newsday news 22 students killed in switzerland crash published", "label": "0"}
+{"example": "grandparents can cause damage to children .", "label": "0"}
+{"example": "copper futures plunged after the international monetary cut .", "label": "0"}
+{"example": "a south african businessman shot dead three people before turning the gun .", "label": "0"}
+{"example": "cape motorists have been warned of closures and conditions caused by snowfall .", "label": "0"}
+{"example": "jade goody would have been to admit she had no talent .", "label": "0"}
+{"example": "around 500 high school students learned how to raise money to help orphans .", "label": "0"}
+{"example": "investment of usd into five key sectors could help revive employment while accelerating the fight against change", "label": "0"}
+{"example": "west penn power continues to conduct work .", "label": "0"}
+{"example": "a study has found farmers do not reap benefits of rising food prices .", "label": "0"}
+{"example": "hp will acquire fortify software .", "label": "0"}
+{"example": "texas congressman charlie wilson", "label": "0"}
+{"example": "the community is ready to support viktor yanukovych .", "label": "0"}
+{"example": "political cases would be withdrawn revolutionary steps would be taken to improve .", "label": "0"}
+{"example": "the winter session began .", "label": "0"}
+{"example": "israel launched an air raid on a building after a rocket was fired .", "label": "0"}
+{"example": "air india is likely to rejig its team of directors shortly .", "label": "0"}
+{"example": "brook lopez helps nets beat hornets", "label": "0"}
+{"example": "the exmoor emperor was just another stag .", "label": "0"}
+{"example": "cebu pacific will start flying from .", "label": "0"}
+{"example": "two trains collided at hour , killing at least 18 people and injuring least 55 .", "label": "0"}
+{"example": "a message was posted on the office est .", "label": "0"}
+{"example": "paul pogba has left united to join juventus .", "label": "0"}
+{"example": "britain 's employment market remains finely balanced .", "label": "0"}
+{"example": "a toddler has died after suffering blows to the head .", "label": "0"}
+{"example": "australian shares closed 2 .", "label": "0"}
+{"example": "a unesco delegation is visiting jerusalem to inspect preservation work in the old city .", "label": "0"}
+{"example": "texas tech suspended mike leach .", "label": "0"}
+{"example": "barack obama launched into a fiery speech .", "label": "0"}
+{"example": "wrong questions have led to a significant rise in the merit list .", "label": "0"}
+{"example": "lvmh , on denied it was in talks to sell its moet hennessy .", "label": "0"}
+{"example": "goldman sachs promoted 94 staff .", "label": "0"}
+{"example": "the train got derailed hours", "label": "0"}
+{"example": "a hidden house shrouded in mystery for has been sold .", "label": "0"}
+{"example": "gil who says , the past is not dead .", "label": "0"}
+{"example": "commissioners voted to keep open and make bridge repairs to is .", "label": "0"}
+{"example": "there is recent news about two of the industry sought", "label": "0"}
+{"example": "sandra bullock may have a relationship with jesse james .", "label": "0"}
+{"example": "the number of foreign students studying in japan reached a record 132,720 .", "label": "0"}
+{"example": "hussey expects warriors to regroup", "label": "0"}
+{"example": "up to 7,000 congolese refugees have fled to uganda to escape violence .", "label": "0"}
+{"example": "dreamworks animation skg inc will release five feature films every two years an additional film", "label": "0"}
+{"example": "the venezuelan ambassador venezuela 's affairs", "label": "0"}
+{"example": "arvinmeritor inc. said will cut 1,250 jobs .", "label": "0"}
+{"example": "cadbury plc would prefer a merger with hershey co rather .", "label": "0"}
+{"example": "carey mulligan wanted to be macaulay culkin .", "label": "0"}
+{"example": "mortgage costs increased for the first time .", "label": "0"}
+{"example": "electrolux said would close its l'assomption plant in canada in 2013 .", "label": "0"}
+{"example": "a committee could vote on a proposal to legalize casinos .", "label": "0"}
+{"example": "sovereign wealth funds may have transparency issues .", "label": "0"}
+{"example": "caterham is preparing its sole entrant .", "label": "0"}
+{"example": "barbra streisand her royal in thought she was mad and .", "label": "0"}
+{"example": "hero raul will play one more game for spain .", "label": "0"}
+{"example": "amy winehouse lived the blues according to lady gaga .", "label": "0"}
+{"example": "the academic financial trading platform today announced its us launch after months of beta testing .", "label": "0"}
+{"example": "the royal canal will be reopened .", "label": "0"}
+{"example": "brett favre retires again .", "label": "0"}
+{"example": "paul mchale would keep his job as an assistant defense secretary .", "label": "0"}
+{"example": "american space agency nasa are delaying their science laboratory rover mission .", "label": "0"}
+{"example": "a teacher pleaded guilty .", "label": "0"}
+{"example": "the miami dolphins sent justin smiley to see a specialist about his troublesome shoulder", "label": "0"}
+{"example": "australian troops will stay in east timor .", "label": "0"}
+{"example": "iron cobalt was the most magnetic material on earth .", "label": "0"}
+{"example": "anderson city council members gave final approval for an economic incentive program .", "label": "0"}
+{"example": "initial jobless claims fell 44,000 to 434,000 .", "label": "0"}
+{"example": "shawn bunch failed will debut in bellator .", "label": "0"}
+{"example": "google is preparing to steer more telephone traffic .", "label": "0"}
+{"example": "shiri appleby is one of life actresses .", "label": "0"}
+{"example": "polish police detained an exiled chechen rebel leader sought .", "label": "0"}
+{"example": "danish police find cocaine on", "label": "0"}
+{"example": "princeton residents voted for change and a .", "label": "0"}
+{"example": "richard branson is turning his hand to launching satellites .", "label": "0"}
+{"example": "joel ward would love to return to afc bournemouth .", "label": "0"}
+{"example": "blake shelton will head to the grand ole opry .", "label": "0"}
+{"example": "a dutch tv news station gave german chancellor angela merkel a hitler moustache graphics .", "label": "0"}
+{"example": "a former cibc employee has been accused of defrauding seniors .", "label": "0"}
+{"example": "rumors marc jacobs may be heading to dior have been dominating .", "label": "0"}
+{"example": "new figures the injuries board show there was a fall in amount paid out in compensation claims in donegal .", "label": "0"}
+{"example": "gatorade is dropping tiger woods .", "label": "0"}
+{"example": "the speaker , sir geoffrey henry , has died after battling cancer .", "label": "0"}
+{"example": "india remains a vital destination .", "label": "0"}
+{"example": "electronic document management is the main spending priority for firms .", "label": "0"}
+{"example": "a driver was charged with running a red light after a collision .", "label": "0"}
+{"example": "atr presented its first atr 72 600 prototype at a ceremony .", "label": "0"}
+{"example": "readers took to task over our position regarding allegations of misconduct .", "label": "0"}
+{"example": "microsoft corp. has launched the public beta of its worldwide telescope .", "label": "0"}
+{"example": "zooey deschanel has launched a new website called hello giggles .", "label": "0"}
+{"example": "holmes died", "label": "0"}
+{"example": "a chance encounter at a restaurant who authorities say", "label": "0"}
+{"example": "a man allegheny county has been shot twice by his step son .", "label": "0"}
+{"example": "david petraeus was treated for prostate cancer .", "label": "0"}
+{"example": "a south point area man has been arrested in connection .", "label": "0"}
+{"example": "a safety board report has been released in a plane crash .", "label": "0"}
+{"example": "israeli forces prevented palestinian farmers from kafr jammal", "label": "0"}
+{"example": "ihop restaurants are serving free short stacks .", "label": "0"}
+{"example": "whoopi goldberg has had a religious promotion .", "label": "0"}
+{"example": "lawsons angus sold all 44 angus bulls offered at its sale at roma .", "label": "0"}
+{"example": "matt cassel has accepted the franchise tag put on .", "label": "0"}
+{"example": "textura has appointed as executive vice president of corporate development .", "label": "0"}
+{"example": "l. jackson jr. who has received a diagnosis of bipolar disorder will resign .", "label": "0"}
+{"example": "police cited a man after he fell asleep while driving .", "label": "0"}
+{"example": "arlen specter pennsylvania will switch and run as a democrat in the 2010 elections .", "label": "0"}
+{"example": "county will receive a $ 455,295 grant for a health support program .", "label": "0"}
+{"example": "a store opened doors at the tanger outlet center .", "label": "0"}
+{"example": "alastair cook was left searching for answers .", "label": "0"}
+{"example": "ehsan haddadi claimed the bronze medal of the iaaf continental cup split .", "label": "0"}
+{"example": "state police say they found 180 pot plants mushrooms in a home .", "label": "0"}
+{"example": "the constitution defines the principles .", "label": "0"}
+{"example": "chris brown has made progress on his sentence .", "label": "0"}
+{"example": "mohamed morsi has been elected president of egypt .", "label": "0"}
+{"example": "a baby survived a horrifying crash .", "label": "0"}
+{"example": "idol records has signed band calhoun .", "label": "0"}
+{"example": "imation has released new 3.2 tb magnetic tape .", "label": "0"}
+{"example": "is to quit as northern ireland 's first minister following .", "label": "0"}
+{"example": "a school student , died after falling from a train .", "label": "0"}
+{"example": "ibm announced the world 's largest private cloud computing environment .", "label": "0"}
+{"example": "a crash knocked out power in around the crash .", "label": "0"}
+{"example": "two sisters saved their father from an overturned tractor .", "label": "0"}
+{"example": "mr. miller", "label": "0"}
+{"example": "regis corporation is mailing a letter to shareholders .", "label": "0"}
+{"example": "the office of fair trading are set to investigate the numbers of rip off credit card fees", "label": "0"}
+{"example": "alastair cook gave credit to batsmen sharma and", "label": "0"}
+{"example": "jordan and saudi arabia urged an to israeli attacks on the the continuation would derail peace negotiations with the palestinians .", "label": "0"}
+{"example": "two foreign un contractors were killed .", "label": "0"}
+{"example": "the key open up is to say very little .", "label": "0"}
+{"example": "mosques have spread across the us .", "label": "0"}
+{"example": "russia had met the deadline .", "label": "0"}
+{"example": "village residents will head to the polls .", "label": "0"}
+{"example": "a salisbury man charged was found competent to stand trial .", "label": "0"}
+{"example": "what goes into the making of a credit score and how to manage your score", "label": "0"}
+{"example": "israel has returned the bodies of 91 palestinian militants .", "label": "0"}
+{"example": "the american conjoined twins were separated .", "label": "0"}
+{"example": "vera lynn has appealed for help .", "label": "0"}
+{"example": "rory mcilroy conceded defeat .", "label": "0"}
+{"example": "chelsea have are not renewing the contract ray wilkins and he .", "label": "0"}
+{"example": "dj am died without a will , is listed .", "label": "0"}
+{"example": "john mccain won the new hampshire republican primary .", "label": "0"}
+{"example": "right management has opened a new office in kanata .", "label": "0"}
+{"example": "a former football star was arrested after a police chase .", "label": "0"}
+{"example": "nascar has called a mandatory meeting for all drivers .", "label": "0"}
+{"example": "arma ii looks set to do an incredible job .", "label": "0"}
+{"example": "how can i create a facebook group", "label": "0"}
+{"example": "a central ohio woman is facing charges .", "label": "0"}
+{"example": "john higgins opened up his campaign with a 2 win over shaun murphy .", "label": "0"}
+{"example": "a firm , melbourne and adelaide is expanding its portfolio .", "label": "0"}
+{"example": "a says he looks forward to driving and swimming with his arms .", "label": "0"}
+{"example": "the big b has threatened to initiate legal action against bharti airtel", "label": "0"}
+{"example": "a judge found cause the five stevens point residents", "label": "0"}
+{"example": "media publisher breitbart has died at the age of 43 .", "label": "0"}
+{"example": "but i deep water is for running .", "label": "0"}
+{"example": "malaysia is capable of handling disasters , .", "label": "0"}
+{"example": "michael cuddyer was hit on the left foot by a line drive .", "label": "0"}
+{"example": "north korea would strike again at the south", "label": "0"}
+{"example": "apple released battery update 1.4 , an update for all macbook models designed to improve .", "label": "0"}
+{"example": "maintenance works on 32 government housing blocks have been completed .", "label": "0"}
+{"example": "mumbai indians edged out pune warriors .", "label": "0"}
+{"example": "air india has appointed a consultant to examine its properties in india and abroad to raise rs .", "label": "0"}
+{"example": "the united states should put economics at the center of its foreign policy", "label": "0"}
+{"example": "eric hovde lost out on a us senate seat .", "label": "0"}
+{"example": "daniel vettori and doug bracewell have saved the black caps blushes to beat zimbabwe .", "label": "0"}
+{"example": "kris versteeg has been traded from the flyers to the panthers .", "label": "0"}
+{"example": "keegan daniel will earn his 50th super rugby cap for sharks .", "label": "0"}
+{"example": "snes rpg could be headed to the playstation store .", "label": "0"}
+{"example": "state of national economy is showing positive indicators .", "label": "0"}
+{"example": "cke restaurants inc. adopted a poison pill plan to dissuade any attempts .", "label": "0"}
+{"example": "coach greg robinson was fired with the orange nearing the end .", "label": "0"}
+{"example": "major telcos have agreed to put in place systems to intercept services .", "label": "0"}
+{"example": "saxophonist clarence clemons , the died on of complications from a stroke .", "label": "0"}
+{"example": "hull ended their 104-year wait for top flight football .", "label": "0"}
+{"example": "gloria govan is involved in yet another love triangle .", "label": "0"}
+{"example": "swans opt for siblings in rookie draft", "label": "0"}
+{"example": "ap we d novelist ruth prawer jhabvala has died .", "label": "0"}
+{"example": "scored 24 points and the indiana pacers beat the cleveland cavaliers 100 89 .", "label": "0"}
+{"example": "stephon marbury cleared waivers .", "label": "0"}
+{"example": "dlr services will be suspended between canning town .", "label": "0"}
+{"example": "the electoral commission has deregistered 11 political parties in uganda .", "label": "0"}
+{"example": "the anaheim ducks again will be without jonas hiller .", "label": "0"}
+{"example": "a us journalist has been arrested in iran .", "label": "0"}
+{"example": "syria is ready for talks with the armed opposition groups", "label": "0"}
+{"example": "announce they will be reuniting for a tour .", "label": "0"}
+{"example": "ufc and champion brock lesnar has been hospitalized is , very sick .", "label": "0"}
+{"example": "three female international aid workers and were killed .", "label": "0"}
+{"example": "jamie foxx brought some music and laughter to new orleans with his blame tour .", "label": "0"}
+{"example": "akzo nobel nv climbed in amsterdam trading .", "label": "0"}
+{"example": "discount chain aldi is to launch a travel website which will turn the online travel industry .", "label": "0"}
+{"example": "oil reserves have risen more than expected .", "label": "0"}
+{"example": "the pittsburgh penguins and gm ray shero they have recalled joseph morrow .", "label": "0"}
+{"example": "victoria beckham has been offered an astounding figure", "label": "0"}
+{"example": "nigeria national petroleum corporation is poised to replenish the strategic fuel stock .", "label": "0"}
+{"example": "president obama is expected to meet with bp .", "label": "0"}
+{"example": "pegatron corp posted record sales growth .", "label": "0"}
+{"example": "three australian soldiers have been killed in a helicopter crash .", "label": "0"}
+{"example": "three southern mississippi football players were shot at a bar in hattiesburg .", "label": "0"}
+{"example": "the marine corps has changed its re - enlistment procedures", "label": "0"}
+{"example": "drugs have been seized in a croydon raid .", "label": "0"}
+{"example": "two powerful earthquakes hit waters off eastern indonesia succession .", "label": "0"}
+{"example": "a , his son because of financial problems was arrested .", "label": "0"}
+{"example": "manna will kick off its annual thanksgiving for all food drive .", "label": "0"}
+{"example": "britain would release a 16 million pound aid package to rwanda .", "label": "0"}
+{"example": "the bail hearing for a young pakistani christian girl accused of blasphemy was adjourned .", "label": "0"}
+{"example": "edoardo molinari is planning to have surgery on his injured left wrist .", "label": "0"}
+{"example": "a decision opens the door to greater freedom of expression in canada without fear of legal action .", "label": "0"}
+{"example": "frank turner has created his own signature beer .", "label": "0"}
+{"example": "the inhabitants have expressed satisfaction with water supply .", "label": "0"}
+{"example": "a classic car will be returned to the rightful owner .", "label": "0"}
+{"example": "a hilham woman was killed in a traffic crash .", "label": "0"}
+{"example": "the tsx venture exchange closed at 1,542.77 , .", "label": "0"}
+{"example": "costco opens its first australian warehouse at docklands .", "label": "0"}
+{"example": "keith richman , has died .", "label": "0"}
+{"example": "the knoxville ice bears erupted for four goals to turn a 0 deficit into a 2 road win .", "label": "0"}
+{"example": "the directives rawalpindi police recovered a huge quantity of drugs .", "label": "0"}
+{"example": "state government is on track to end its budget year", "label": "0"}
+{"example": "poker , and what better way can", "label": "0"}
+{"example": "a kayenta man was sentenced to more than five years in a prison for assaulting a police officer .", "label": "0"}
+{"example": "a topekan facing federal tax charges has an attempt to flee charge to his name .", "label": "0"}
+{"example": "will launch a number of iphone games .", "label": "0"}
+{"example": "the columbus blue jackets activated after he missed 16 games with a groin injury .", "label": "0"}
+{"example": "three new trains of the south eastern railways were flagged off today .", "label": "0"}
+{"example": "dragon oil has successfully completed and tested the dzheitune c/173 development .", "label": "0"}
+{"example": "walters why", "label": "0"}
+{"example": "the situation in kosovo is a special case and does not serve as a precedent .", "label": "0"}
+{"example": "kenya airways has found .", "label": "0"}
+{"example": "pakistan state oil has started supply of furnace oil discounted rates .", "label": "0"}
+{"example": "p. diddy is spent on making an audition tape .", "label": "0"}
+{"example": "a student from a school has died from meningitis .", "label": "0"}
+{"example": "team owners sought an apology from modi for breach of privacy .", "label": "0"}
+{"example": "the south korean economy grew in more than three years in the first quarter .", "label": "0"}
+{"example": "sen. scott brown raised $ 5 million during the second quarter of 2012", "label": "0"}
+{"example": "the salem minimum security prison will be shut down .", "label": "0"}
+{"example": "vodafone reported a return to organic service revenue growth", "label": "0"}
+{"example": "cuts could force school districts to explore services .", "label": "0"}
+{"example": "the house has passed a $ 649 billion defense bill that boosts the .", "label": "0"}
+{"example": "de la soul are headed to nashville .", "label": "0"}
+{"example": "sheree whitfield has decided to leave the real housewives of atlanta series .", "label": "0"}
+{"example": "housing approvals rose after adjusting for seasonal effects .", "label": "0"}
+{"example": "a school board meeting was held to approve a resolution to ask the state for reimbursement .", "label": "0"}
+{"example": "generac holdings inc. announced an underwritten secondary offering of 9,000,000 shares of its common stock .", "label": "0"}
+{"example": "the government decided to lift the ban on cotton exports .", "label": "0"}
+{"example": "scottish equitable has extended its trust range .", "label": "0"}
+{"example": "lionsgate has its adaptation of the hunger games has added newcomers dayo okeniyi and amandla stenberg cast .", "label": "0"}
+{"example": "joe schmidt is unlikely to become the new ireland head coach .", "label": "0"}
+{"example": "jay leno was sued for a religious joke .", "label": "0"}
+{"example": "secretary vaiko was arrested along with about 100 party workers", "label": "0"}
+{"example": "nitin gadkari denied on ndtv allegations of murky financial dealings .", "label": "0"}
+{"example": "patrice brisebois retired .", "label": "0"}
+{"example": "roaches , rodent feces , and worms have been found in collier county schools .", "label": "0"}
+{"example": "councillors passed the budget package .", "label": "0"}
+{"example": "thanet families picked up essential tips on how to stay safe .", "label": "0"}
+{"example": "the british public expects violent crime get .", "label": "0"}
+{"example": "home team palmeiras defeated last place gremio prudente 2 .", "label": "0"}
+{"example": "saudi arabia will welcome all pilgrims to the country to perform haj .", "label": "0"}
+{"example": "northern rock is set to offer 90 % mortgages .", "label": "0"}
+{"example": "china launches manned space mission", "label": "0"}
+{"example": "susan boyle feels she learning her trade she recorded her first two albums .", "label": "0"}
+{"example": "douglas bruce kicked a rocky photographer during the ceremonial prayer .", "label": "0"}
+{"example": "indonesia to ban female mp miniskirts", "label": "0"}
+{"example": "britons want to see immigration reduced but .", "label": "0"}
+{"example": "the motorsport federation said it would vote for max mosley .", "label": "0"}
+{"example": "russia launched three astronauts for the international space station .", "label": "0"}
+{"example": "madonna held a dance audition .", "label": "0"}
+{"example": "a blind chinese activist was beaten senseless after releasing a .", "label": "0"}
+{"example": "gulf air will be expanding its network into iraq .", "label": "0"}
+{"example": "2009 disabled people are 1.5 times more likely to be victims of violent crime .", "label": "0"}
+{"example": "midwest orthopaedics will open a new occupational medicine clinic .", "label": "0"}
+{"example": "us stocks opened in green", "label": "0"}
+{"example": "progress software progress software has agreed to acquire iona for $ 4.05 .", "label": "0"}
+{"example": "the texas municipal retirement system has reappointed state street .", "label": "0"}
+{"example": "state bank india plans to retain a portion of the retail over - subscription", "label": "0"}
+{"example": "more than 250 volunteers pitched in and braved heat into the 90 's to help berwyn build a new playground .", "label": "0"}
+{"example": "a crane worth tens of thousands of pounds has been stolen .", "label": "0"}
+{"example": "two fbi special agents were killed .", "label": "0"}
+{"example": "ohio state beat no . 19 wisconsin 58 52 .", "label": "0"}
+{"example": "a canadian soldier has been killed have been wounded .", "label": "0"}
+{"example": "penn state has released aj price of his scholarship .", "label": "0"}
+{"example": "charlie crist he regrets signing an anti - gay marriage petition in 2006 .", "label": "0"}
+{"example": "jacob zuma is set to marry his fifth wife .", "label": "0"}
+{"example": "a fighter is how a former councillor was remembered .", "label": "0"}
+{"example": "oil prices edged above $ 79 a barrel .", "label": "0"}
+{"example": "philip humber threw a perfect game .", "label": "0"}
+{"example": "ross rebagliati hopes opens a cafe .", "label": "0"}
+{"example": "madge loathes hydrangeas .", "label": "0"}
+{"example": "kimberly is famous for shagging the likes", "label": "0"}
+{"example": "jonny wilkinson says he has never been playing rugby .", "label": "0"}
+{"example": "destroyed somebody had taken a chainsaw to the fairy tree .", "label": "0"}
+{"example": "56 law enforcement officers were slain in the line officers died accidents were assaulted .", "label": "0"}
+{"example": "two men armed with a gun and knife robbed a man .", "label": "0"}
+{"example": "an meritocracy would look like , and what social mobility might exist .", "label": "0"}
+{"example": "alan johnson says 25 cases of possible swine flu have been", "label": "0"}
+{"example": "kate perry wants a career madonna .", "label": "0"}
+{"example": "evangelist oral roberts to found a organisation , died aged 91 .", "label": "0"}
+{"example": "tim kaine clenched the 2012 senate nomination by being the democrat to petitions .", "label": "0"}
+{"example": "china has been improving its criminal justice system to promote human rights protection paper .", "label": "0"}
+{"example": "roman polanski began his house arrest on $ million bail", "label": "0"}
+{"example": "a truce between the regime came into force dawn while a militant was .", "label": "0"}
+{"example": "scientists have reported the discovery of a new genus of hominoid primate .", "label": "0"}
+{"example": "retailsdirect.com has launched travel section .", "label": "0"}
+{"example": "terence newman returned to practice .", "label": "0"}
+{"example": "the introduction of larger classrooms with smaller class sizes is being recommended .", "label": "0"}
+{"example": "eurocopter completed its tour of the x helicopter .", "label": "0"}
+{"example": "people come the we can offer .", "label": "0"}
+{"example": "hugo chavez celebrated his 57th birthday vowing to survive .", "label": "0"}
+{"example": "george steinbrenner has died after suffering a massive heart attack .", "label": "0"}
+{"example": "ghana samuel inkoom has joined ukrainian club dnipro dnipropetrovsk .", "label": "0"}
+{"example": "two shop owners were robbed at balajinagar .", "label": "0"}
+{"example": "michael vaughan believes ian bell knew had messed up", "label": "0"}
+{"example": "special olympics wisconsin kicked off its 40th summer games .", "label": "0"}
+{"example": "you need to make you check out spain vs germany streaming online free", "label": "0"}
+{"example": "rudolf elmer will stay in jail following .", "label": "0"}
+{"example": "the murphy campaign sends patrick murphy .", "label": "0"}
+{"example": "a water main break in hendersonville should be repaired .", "label": "0"}
+{"example": "five persons were injured when members of two communities clashed into a temple .", "label": "0"}
+{"example": "andranik teymourian has confessed he is ready to leave fulham .", "label": "0"}
+{"example": "german stocks rallied the most in 11 months as earnings .", "label": "0"}
+{"example": "kung fu panda sold out .", "label": "0"}
+{"example": "seair will fly from clark to kota kinabalu .", "label": "0"}
+{"example": "said pretax loss widened nearly eight fold", "label": "0"}
+{"example": "does n't envy her sister jessica simpson one .", "label": "0"}
+{"example": "a day his party has nothing in with bharatiya janata party .", "label": "0"}
+{"example": "tg21 plc its overall trading is in line with market expectations .", "label": "0"}
+{"example": "tom jones has was considered for the role of .", "label": "0"}
+{"example": "the fda cleared apollo endosurgery 's sumo endoscopic tissue access and resection system .", "label": "0"}
+{"example": "tokyo stocks opened almost flat with a strong yen offsetting expectations .", "label": "0"}
+{"example": "exterior work on the blackhawk hotel has begun in earnest .", "label": "0"}
+{"example": "al qaida on the arabian peninsula is relocating to somalia .", "label": "0"}
+{"example": "air canada will face large losses .", "label": "0"}
+{"example": "maine 's medical marijuana caregivers held their first trade show festival .", "label": "0"}
+{"example": "hsbc downgraded indian stocks to underweight .", "label": "0"}
+{"example": "jamie laing wants a fleet of kids .", "label": "0"}
+{"example": "science applications international corporation it was awarded to provide design and services", "label": "0"}
+{"example": "midway games inc. will close its chicago headquarters and fire .", "label": "0"}
+{"example": "this side of", "label": "0"}
+{"example": "toyota motor corp. resumed car at all of its plants in japan .", "label": "0"}
+{"example": "robert pritzker , a died .", "label": "0"}
+{"example": "ssp chowrasia ended his title drought winning the co avantha masters .", "label": "0"}
+{"example": "the securities and exchange commission is investigating residential capital for instances of mortgage fraud .", "label": "0"}
+{"example": "yahoo has launched a web browser for iphones , ipads .", "label": "0"}
+{"example": "sioux falls , sd a man has pleaded guilty to stealing mail .", "label": "0"}
+{"example": "avon will have to redistrict its schools to accommodate river birch elementary .", "label": "0"}
+{"example": "the coast guard rescued a mississippi man who was bitten by a shark fishing .", "label": "0"}
+{"example": "providers virgin media and sky have raised concerns .", "label": "0"}
+{"example": "aidan o'brien bids for .", "label": "0"}
+{"example": "fair distribution of wealth the is key .", "label": "0"}
+{"example": "iran has every right to develop nuclear energy for peaceful purposes", "label": "0"}
+{"example": "the system is in serious trouble .", "label": "0"}
+{"example": "paul hamm has pleaded not guilty .", "label": "0"}
+{"example": "police make an arrest for a bank robbery .", "label": "0"}
+{"example": "foodstuffs , media , estate , enterprise as kalev earned a profit of 2.6 .", "label": "0"}
+{"example": "and elizabeth hurley likes to she 's in bed with her husband arun nayar .", "label": "0"}
+{"example": "the woman responsible for creating the art and college in europe has been honoured with a cbe .", "label": "0"}
+{"example": "hican is now shipping .", "label": "0"}
+{"example": "taiwan sees baby boom in year of dragon", "label": "0"}
+{"example": "india 's carmaker maruti suzuki will restart production at its .", "label": "0"}
+{"example": "lindsay lohan has rejected her plea bargain .", "label": "0"}
+{"example": "via motors will unveil three new - in hybrid vehicles .", "label": "0"}
+{"example": "olympus executives pleaded guilty to filing false financial reports .", "label": "0"}
+{"example": "what is british", "label": "0"}
+{"example": "quarry integrated communications celebrates a milestone this firms reach 35 years of building .", "label": "0"}
+{"example": "vin diesel has shared his forthcoming riddick .", "label": "0"}
+{"example": "the cumulative shipment has exceeded the 55 million pieces threshold .", "label": "0"}
+{"example": "\\u0026 fitch will close 110 .", "label": "0"}
+{"example": "chris leben was suspended one after failing a drug test for the .", "label": "0"}
+{"example": "joe cole was sent off on his debut for liverpool", "label": "0"}
+{"example": "iguodala will wear a pair of protective glasses", "label": "0"}
+{"example": "live jimmy fallon will return to bananas poughkeepsie", "label": "0"}
+{"example": "angelina jolie has been crowned the decade 's queen , .", "label": "0"}
+{"example": "barack obama warned there was no shortcut to peace .", "label": "0"}
+{"example": "a earthquake in the area may be related to activity .", "label": "0"}
+{"example": "a blackwood couple have each been handed a year asbo .", "label": "0"}
+{"example": "former head of the dominique strauss kahn has arrived back in france .", "label": "0"}
+{"example": "carbon dioxide was the big driver that say study .", "label": "0"}
+{"example": "electronic arts pays wayne \u00a3 200,000 a in money to the footballer 's .", "label": "0"}
+{"example": "inclusive technologies will be key drivers for icreate said .", "label": "0"}
+{"example": "dutch defence force will review claims its personnel refused to help australian soldiers .", "label": "0"}
+{"example": "oil prices of $ 75 to $ 85 .", "label": "0"}
+{"example": "cristiano ronaldo is the world 's best .", "label": "0"}
+{"example": "british home prices rose .", "label": "0"}
+{"example": "an employer ca n't escape paying for services to an injured worker solely .", "label": "0"}
+{"example": "a swine flu victim has died in scotland .", "label": "0"}
+{"example": "mitt romney said it does n't have to be this way", "label": "0"}
+{"example": "china aims to double the value sales .", "label": "0"}
+{"example": "holly valance is so keen to bare for she has issued a come get .", "label": "0"}
+{"example": "a consultation on the closure of two city care homes started after .", "label": "0"}
+{"example": "the coast guard suspended its search sunday for two crewmembers .", "label": "0"}
+{"example": "a man held for killing a stray dog was remanded to 10-day judicial custody .", "label": "0"}
+{"example": "washington wizards guard gilbert arenas was charged on friday with felony gun possession .", "label": "0"}
+{"example": "one robbery suspect was lynched .", "label": "0"}
+{"example": "ohio 's switching its lethal injection drug .", "label": "0"}
+{"example": "japan has freed 14 crew members of ship .", "label": "0"}
+{"example": "will candidate will best fight for the interests of the middle class .", "label": "0"}
+{"example": "gross mortgage lending increased by 7 % in may .", "label": "0"}
+{"example": "alexandra burke has premiered her new elephant .", "label": "0"}
+{"example": "the data breaches of patient information cost healthcare organizations $ 6 billion .", "label": "0"}
+{"example": "10 reasons why you should be -- and you delivered", "label": "0"}
+{"example": "lieberman wrote he state he supported .", "label": "0"}
+{"example": "advanced bionics notified food \\u0026", "label": "0"}
+{"example": "baseball blended , starting with yogi berra leading a .", "label": "0"}
+{"example": "a paralegal who worked for the denner pellegrino and a postal inspector have been charged with perjury .", "label": "0"}
+{"example": "kara dioguardi and her husband mike mccuddy are expecting their first child .", "label": "0"}
+{"example": "glenn beck is leaving , he will host a weekday show .", "label": "0"}
+{"example": "health researchers say today is the most depressing day .", "label": "0"}
+{"example": "indonesian authorities have seized nearly 700 endangered turtles .", "label": "0"}
+{"example": "the nano has set new global standards for low - cost vehicles", "label": "0"}
+{"example": "jude law miller had a blazing row .", "label": "0"}
+{"example": "un sanctions must remain .", "label": "0"}
+{"example": "funeral plans are set for a state student .", "label": "0"}
+{"example": "megafon introduced a promotional offer of 1,000 sms for corporate subscribers .", "label": "0"}
+{"example": "charges against defender charlie mulgrew have been dropped .", "label": "0"}
+{"example": "a 1.5-mile section of the riverfront trail will close .", "label": "0"}
+{"example": "kal penn was robbed at gunpoint near", "label": "0"}
+{"example": "coalition said the government 's high speed rail plans lack ambition .", "label": "0"}
+{"example": "a man was found dead .", "label": "0"}
+{"example": "court hears murder accused rang ambulance himself .", "label": "0"}
+{"example": "tim mahoney admitted to having multiple extra marital affairs .", "label": "0"}
+{"example": "the german automaker bmw might develop a version the z4 .", "label": "0"}
+{"example": "sainsbury 's has emerged the christmas winner out of the big four grocers .", "label": "0"}
+{"example": "the federal reserve kept its benchmark interest rate unchanged .", "label": "0"}
+{"example": "two big communications satellites collided in the crash siberia , shooting .", "label": "0"}
+{"example": "kenneth starr received but not unanimous -- welcome to baylor university", "label": "0"}
+{"example": "ray houghton has urged the club to agree a ground share with everton .", "label": "0"}
+{"example": "the world economic forum would open its office in india .", "label": "0"}
+{"example": "the 2013 nissan armada was launched in the united states .", "label": "0"}
+{"example": "a british aid worker has been kidnapped in somalia .", "label": "0"}
+{"example": "ak antony hoped for a better pay package .", "label": "0"}
+{"example": "the mariners have signed oliver perez to a minor league contract .", "label": "0"}
+{"example": "band anvil is returning to moncton .", "label": "0"}
+{"example": "manny ramirez is expected back in the dugout he .", "label": "0"}
+{"example": "eur usd has reached its resistance target of 1.3100 .", "label": "0"}
+{"example": "the south florida sun - sentinel has won 's first pulitzer prize .", "label": "0"}
+{"example": "local governments will be given control of the location of brothels .", "label": "0"}
+{"example": "hewlett - packard co. spent nearly $ in to lobby on reform and protection .", "label": "0"}
+{"example": "umass is announcing its first two free and courses .", "label": "0"}
+{"example": "romanians voted for new president .", "label": "0"}
+{"example": "playing the - loving count von count has died of causes .", "label": "0"}
+{"example": "mitt romney says of course he would have ordered osama bin laden killed .", "label": "0"}
+{"example": "compounds found in the leaves of cannabis plants can help reduce seizures .", "label": "0"}
+{"example": "garbage is piling up in northeast ohio as an strike .", "label": "0"}
+{"example": "lyon has reached the final of the french cup .", "label": "0"}
+{"example": "phillies icon robin roberts died at his temple terrace .", "label": "0"}
+{"example": "clackamas county voters renewed a safety levy .", "label": "0"}
+{"example": "carl c. icahn issued the following open letter", "label": "0"}
+{"example": "sigourney weaver says she believes in extraterrestrials .", "label": "0"}
+{"example": "it will invest $ 5 billion investment in its semiconductor operation for the fiscal years 2010 2011 2012", "label": "0"}
+{"example": "the lodi unified board approved a $ 234 million budget chock full .", "label": "0"}
+{"example": "the boston college team held its first intrasquad scrimmage of the preseason .", "label": "0"}
+{"example": "the district surpassed its $ 6.2 million budget after the first storm .", "label": "0"}
+{"example": "ben roethlisberger is being investigated in an allegation of sexual assault .", "label": "0"}
+{"example": "zlatan ibrahimovic will prove to be a great signing for barcelona .", "label": "0"}
+{"example": "barack obama expressed deep concern about the attack on the sri lankan team .", "label": "0"}
+{"example": "almatis bv filed for chapter 11 bankruptcy protection .", "label": "0"}
+{"example": "airline eurowings has selected lufthansa systems to provide .", "label": "0"}
+{"example": "ice canadian canola futures rose , supported us soyabeans .", "label": "0"}
+{"example": "adrienne rich , died", "label": "0"}
+{"example": "more beds will be opened at a nottingham hospital .", "label": "0"}
+{"example": "martha stewart was talking business , .", "label": "0"}
+{"example": "scisys it performed better than expected in the second half of 2010 .", "label": "0"}
+{"example": "pennsylvania ranks 23rd in for mortgage delinquencies .", "label": "0"}
+{"example": "lofa tatupu has missed his second practice .", "label": "0"}
+{"example": "saab has restarted production in sweeden .", "label": "0"}
+{"example": "tracy mcgrady will take some .", "label": "0"}
+{"example": "the united kingdom 's idis has opened an office in iselin .", "label": "0"}
+{"example": "a woman was arrested after she allegedly stabbed her boyfriend with a steak knife .", "label": "0"}
+{"example": "she was trying to break up a fight between children .", "label": "0"}
+{"example": "ed cowan still has a poster of hero ricky .", "label": "0"}
+{"example": "catastrophes cost the world economy $ 350 billion and 30,000 lives .", "label": "0"}
+{"example": "site linkedin has more than 20 million users in india .", "label": "0"}
+{"example": "fresh fighting has erupted in the southern philippines .", "label": "0"}
+{"example": "how did you feel like in space after exiting the module ?", "label": "0"}
+{"example": "nortonville man dies after drowning at the swim beach at perry lake .", "label": "0"}
+{"example": "svetlana kuznetsova reached the rome finals after defeating victoria azarenka belarus .", "label": "0"}
+{"example": "eat24hours.com has launched a mobile platform .", "label": "0"}
+{"example": "caltrans workers , who are , donated to install of screening to prevent headlight glare between cars", "label": "0"}
+{"example": "boston celtics head man doc rivers has been traded to the los angeles clippers .", "label": "0"}
+{"example": "health care reform took two healthcare groups announced their support for an overhaul of the industry .", "label": "0"}
+{"example": "england drew 1 - 1 with mexico .", "label": "0"}
+{"example": "blackberry owner rim is set to launch its first european retail store in selfridges .", "label": "0"}
+{"example": "redmond o'neal has completed a drug diversion program .", "label": "0"}
+{"example": "one direction shared some", "label": "0"}
+{"example": "the star running back 's injury cast a somber aura .", "label": "0"}
+{"example": "julia roberts earned a staggering $ 3 million for .", "label": "0"}
+{"example": "barack obama is ready to lead america .", "label": "0"}
+{"example": "the sri lanka government continues with the recognition halal", "label": "0"}
+{"example": "the blackhawks celebrated their second stanley cup title .", "label": "0"}
+{"example": "one patient died a portion of the ceiling .", "label": "0"}
+{"example": "wo n't battle microsoft for yahoo", "label": "0"}
+{"example": "the snamprogetti offices in milan , italy , were searched .", "label": "0"}
+{"example": "british fashion designer alexander mcqueen was found dead .", "label": "0"}
+{"example": "a former cary public works director settled his federal civil rights lawsuit", "label": "0"}
+{"example": "shannon tavarez is battling cancer at the age of 11 .", "label": "0"}
+{"example": "vodafone has appointed analjit singh as the non chairman of its .", "label": "0"}
+{"example": "david hiller has resigned after 21 months .", "label": "0"}
+{"example": "palestinian youths clashed with israeli police forces in a camp .", "label": "0"}
+{"example": "one smokes through pregnancy despite the major health risks to her baby .", "label": "0"}
+{"example": "the jared loughner released saying they do n't understand what prompted their son to go on a heinous shooting rampage", "label": "0"}
+{"example": "drug and weapons charges have been laid against three people .", "label": "0"}
+{"example": "warns", "label": "0"}
+{"example": "china will apply multiple instruments to guarantee the steady growth of credit .", "label": "0"}
+{"example": "a henrico county man was injured during a police pursuit richmond .", "label": "0"}
+{"example": "tom cruise is reportedly ready to cut his links .", "label": "0"}
+{"example": "police say a trail of coins led to a robbery suspect .", "label": "0"}
+{"example": "the house debated health care reform into .", "label": "0"}
+{"example": "celltrust will be receiving its fourth award .", "label": "0"}
+{"example": "the youngest son of the late shah of iran has committed suicide in boston .", "label": "0"}
+{"example": "warwickshire fought back to claim four wickets on the second day gloucestershire .", "label": "0"}
+{"example": "carlos tevez returned to manchester .", "label": "0"}
+{"example": "fingal county council authorities have achieved massive savings .", "label": "0"}
+{"example": "how bondholders - out uk banks may end up sharing the pain with taxpayers .", "label": "0"}
+{"example": "a hosepipe ban is to be implemented", "label": "0"}
+{"example": "tom o'horgan , has died .", "label": "0"}
+{"example": "jeremy hellickson of the rays has been named the american league rookie of the year .", "label": "0"}
+{"example": "gold prices backed off record highs .", "label": "0"}
+{"example": "qamar david , man was found dead on", "label": "0"}
+{"example": "the cypriot economy could contract by 15 per cent .", "label": "0"}
+{"example": "electrolux has launched the world 's home kitchen .", "label": "0"}
+{"example": "the sharks won the battle of the yawn on a durban night .", "label": "0"}
+{"example": "the eu defense ministers better cooperation would contribute to improved maritime surveillance .", "label": "0"}
+{"example": "the dressed race is certainly a close one .", "label": "0"}
+{"example": "- shares closed 0.76 percent lower as the yen remained strong .", "label": "0"}
+{"example": "canadian auto sales rose 4.2 % .", "label": "0"}
+{"example": "mitt romney has been using a ku klux klan slogan .", "label": "0"}
+{"example": "kamloops a man faces eight charges following shooting .", "label": "0"}
+{"example": "eth board has appointed new professors to eth zurich .", "label": "0"}
+{"example": "skoda auto would raise capacity of its octavia model .", "label": "0"}
+{"example": "a shot was fired during a robbery .", "label": "0"}
+{"example": "buck consultants has been granted a royal warrant .", "label": "0"}
+{"example": "google has agreed to destroy a disk it obtained while taking photos .", "label": "0"}
+{"example": "anna hazare was discharged from a hospital he .", "label": "0"}
+{"example": "the murder trial began a , killing a store cashier .", "label": "0"}
+{"example": "environmental degradation needs to be tackled fast .", "label": "0"}
+{"example": "heidi montag and spencer pratt have plans to renew their wedding vows .", "label": "0"}
+{"example": "an indonesian man was found slashed to death near a cemetery .", "label": "0"}
+{"example": "jake gyllenhaal is not dating 90210 's jessica lowndes .", "label": "0"}
+{"example": "arnold schwarzenegger commuted the prison sentence of the son .", "label": "0"}
+{"example": "sonia wishes recovery sonia .", "label": "0"}
+{"example": "chris brown has deleted his twiter account posts .", "label": "0"}
+{"example": "what we eat , americans are making no progress in reducing obesity", "label": "0"}
+{"example": "tim thomas announced he is taking time away from the game .", "label": "0"}
+{"example": "tim pawlenty is holding a meeting on facebook .", "label": "0"}
+{"example": "the boston red sox have activated john smoltz .", "label": "0"}
+{"example": "philadelphia police are offering a new place to surrender to authorities .", "label": "0"}
+{"example": "israeli occupation forces arrested the palestinian", "label": "0"}
+{"example": "state sen. frank watson , will resign .", "label": "0"}
+{"example": "a bay city man was killed in a traffic accident .", "label": "0"}
+{"example": "joseph is to show its first catwalk collection .", "label": "0"}
+{"example": "a hillsborough man was arrested on drug charges .", "label": "0"}
+{"example": "pakistan approved introducing islamic law in valley .", "label": "0"}
+{"example": "has declared a quarterly cash dividend", "label": "0"}
+{"example": "vantis fell \u00a3 10.7 into the red .", "label": "0"}
+{"example": "the kannur international airport project will be expedited .", "label": "0"}
+{"example": "kirsten gillibrand is writing to every chamber of commerce .", "label": "0"}
+{"example": "mondo has received us patents on bonded .", "label": "0"}
+{"example": "the swine flu vaccination campaign will begin .", "label": "0"}
+{"example": "dogs found crammed inside a station wagon .", "label": "0"}
+{"example": "thailand pushes 200 rohingya back to sea", "label": "0"}
+{"example": "silverstein will play two ontario shows .", "label": "0"}
+{"example": "a ski boat driver has been fined $ 4000 after the biscuit rider .", "label": "0"}
+{"example": "co . , inc .", "label": "0"}
+{"example": "a british child sex offender has been deported to the uk .", "label": "0"}
+{"example": "rochester police are investigating a fatal incident .", "label": "0"}
+{"example": "korean nukes we are not acquiring nuclear weapons from north korea .", "label": "0"}
+{"example": "stx pan ocean has warned the dry bulk shipping market could fall further .", "label": "0"}
+{"example": "the bsf has intensified security along border areas", "label": "0"}
+{"example": "xi punjab beat delhi daredevils by six runs in a .", "label": "0"}
+{"example": "george w. bush considered ordering a military strike against a nuclear facility .", "label": "0"}
+{"example": "global food prices rose 8 %", "label": "0"}
+{"example": "over two soccer lovers gave sleep the miss", "label": "0"}
+{"example": "two anglers have their own fisherman 's tale .", "label": "0"}
+{"example": "the headless body of was found without genitals outside a bloemfontein church said .", "label": "0"}
+{"example": "us sharemarkets fell .", "label": "0"}
+{"example": "unitymedia has extended its cable network with nortel technology create .", "label": "0"}
+{"example": "the university of georgia is closing it 's on campus post office .", "label": "0"}
+{"example": "the perseid meteor shower will be hitting its peak thursday .", "label": "0"}
+{"example": "he 's won seven of eight games", "label": "0"}
+{"example": "an suicidal man armed with a gun surrendered to police after a brief standoff .", "label": "0"}
+{"example": "a man was cut and had his shoes and pants stolen during a .", "label": "0"}
+{"example": "a team of researchers has developed a robotic companion environment .", "label": "0"}
+{"example": "an court has ordered the government to ban pornographic websites .", "label": "0"}
+{"example": "lady gaga has leaked the opening lyrics .", "label": "0"}
+{"example": "john bryson has would lead an infrastructure focused trade mission to india next month .", "label": "0"}
+{"example": "the brewer 's ryan braun missed to have an mri on a calf .", "label": "0"}
+{"example": "a monster winter storm took aim", "label": "0"}
+{"example": "the us is at a critical juncture .", "label": "0"}
+{"example": "patients can reduce their health care costs", "label": "0"}
+{"example": "christians celebrate easter , the ecclesiastical holiday .", "label": "0"}
+{"example": "air astana and turkish airlines have signed a codeshare agreement on routes .", "label": "0"}
+{"example": "hindus can not be terrorists and warned of a political backlash .", "label": "0"}
+{"example": "a man drove to milwaukee 's district 7 police station .", "label": "0"}
+{"example": "this semi - truck shell lake .", "label": "0"}
+{"example": "carolyn mccarthy had been diagnosed with a treatable form cancer .", "label": "0"}
+{"example": "blue jays closer bj ryan earned his first save .", "label": "0"}
+{"example": "villanova is reviewing an off - campus incident .", "label": "0"}
+{"example": "a man is accused of forcing a girl , dc .", "label": "0"}
+{"example": "culling of birds continued in meghalaya .", "label": "0"}
+{"example": "bradley byrne said he believes every word is true .", "label": "0"}
+{"example": "about 4.8 million foreign pilgrims have performed umrah .", "label": "0"}
+{"example": "cops shot and after he refused to drop a knife .", "label": "0"}
+{"example": "the world bank is set to upgrade its philippine economic outlook .", "label": "0"}
+{"example": "the bulls held a press conference .", "label": "0"}
+{"example": "a textile student has designed christmas cards to raise cash .", "label": "0"}
+{"example": "alternatives for seniors announced the launch of a national campaign on", "label": "0"}
+{"example": "the arabian airlines has signed five landmark agreements", "label": "0"}
+{"example": "crewe may appeal against the red card shown to rhys taylor .", "label": "0"}
+{"example": "group cafe tacuba led the latin grammy award nominations .", "label": "0"}
+{"example": "three ranking customs officials were charged with graft vehicles .", "label": "0"}
+{"example": "aib today announced interest rate changes .", "label": "0"}
+{"example": "consumers value payment security and payment choice more than rewards when making purchases .", "label": "0"}
+{"example": "tata capital has raised $ 800 m for its private equity fund .", "label": "0"}
+{"example": "oneok , today announced a reorganization .", "label": "0"}
+{"example": "veteran breakfast telly presenter lorraine kelly is to become the face of the .", "label": "0"}
+{"example": "lutheran church is celebrating its 115th anniversary .", "label": "0"}
+{"example": "fans are reminded season tickets will go on sale this .", "label": "0"}
+{"example": "barnet is preparing for a right royal knees .", "label": "0"}
+{"example": "former dominique strauss - kahn was released without bail .", "label": "0"}
+{"example": "frankfurt , germany beat freiburg .", "label": "0"}
+{"example": "super nanny ' jo frost gets asked for family advice .", "label": "0"}
+{"example": "authorities will continue to search lake monona saturday .", "label": "0"}
+{"example": "meb keflezighi will run the nyc half - marathon in march .", "label": "0"}
+{"example": "the august inflation print is likely to be the highlight of the day .", "label": "0"}
+{"example": "libya has created an exclusive economic zone .", "label": "0"}
+{"example": "robert hughes died the his wife .", "label": "0"}
+{"example": "brad plumer takes on one of my favorite fuzzy questi", "label": "0"}
+{"example": "kevin garnett could touch the rim of the basket when his middle finger", "label": "0"}
+{"example": "chaco 's governor jorge capitanich highlighted the subordination of the economy to politics", "label": "0"}
+{"example": "north korea and russia are set to hold their first joint defense drill", "label": "0"}
+{"example": "the dodgers met with zack greinke .", "label": "0"}
+{"example": "sony is cutting 16,000 jobs worldwide .", "label": "0"}
+{"example": "construction work has begun on a complex in birmingham .", "label": "0"}
+{"example": "a territorial correctional facility inmate was beaten to death .", "label": "0"}
+{"example": "a north fork school was temporarily evacuated for a bomb scare .", "label": "0"}
+{"example": "citigroup will repay $ $ 20 billion of the money .", "label": "0"}
+{"example": "henshaw , speaks on the alleged financial scandals in the senate", "label": "0"}
+{"example": "coahoma voters have elected a new sheriff in a election .", "label": "0"}
+{"example": "a man was found dead during a hazelwood apartment fire .", "label": "0"}
+{"example": "rob emerson nik lentz is targeted for ufc fight night .", "label": "0"}
+{"example": "tahu tested his ankle as his blues team - mates trained wollongong .", "label": "0"}
+{"example": "this is the worst call i my life .", "label": "0"}
+{"example": "hilary admits always sleeps in the nude .", "label": "0"}
+{"example": "newcastle united are one of the teams to watch out .", "label": "0"}
+{"example": "two soldiers killed are to be repatriated in wiltshire .", "label": "0"}
+{"example": "a new report from verifile limited has revealed an astounding 48 percent increase in the of fake diploma mills", "label": "0"}
+{"example": "parking fees fight", "label": "0"}
+{"example": "a woman has been banned from keeping two dogs .", "label": "0"}
+{"example": "voice newspaper has closed up shop .", "label": "0"}
+{"example": "thomas guinzburg ran the viking , died at the age of 84 .", "label": "0"}
+{"example": "jackie selebi had a relationship with glenn agliotti .", "label": "0"}
+{"example": "zynga lost two more executives .", "label": "0"}
+{"example": "a hofstra student was killed by police .", "label": "0"}
+{"example": "asian stocks ended mostly higher with kong", "label": "0"}
+{"example": "the blackberry torch 9800 is available to a monthly contract with orange .", "label": "0"}
+{"example": "the maine senate has voted to increase the minimum wage .", "label": "0"}
+{"example": "expects weaker earnings growth .", "label": "0"}
+{"example": "sugar production in uttar pradesh , , may miss a target .", "label": "0"}
+{"example": "oil options volatility slipped rose .", "label": "0"}
+{"example": "asian stock markets fell .", "label": "0"}
+{"example": "fergie is close to leaving the black eyed peas .", "label": "0"}
+{"example": "moves are underway to conduct fault free school term tests .", "label": "0"}
+{"example": "leann rimes 's cheating boyfriend eddie cibrian has filed for divorce .", "label": "0"}
+{"example": "lionsgate rejected a billionaire 's takeover bid , the offer inadequate .", "label": "0"}
+{"example": "don drake said appears the fire set .", "label": "0"}
+{"example": "market cigarettes are a growing danger .", "label": "0"}
+{"example": "a muskogee man was accidentally shot during a robbery .", "label": "0"}
+{"example": "gov. tim pawlenty , a republican presidential candidate was named as the new head .", "label": "0"}
+{"example": "airport authorities have denied there was an security breach .", "label": "0"}
+{"example": "a mother of four who was deported to gets to return for a hearing before judge and a", "label": "0"}
+{"example": "clear channel is hoping to reorganize its debt load .", "label": "0"}
+{"example": "babcock \\u0026 brown ltd. has leased and delivered two boeing aircraft to .", "label": "0"}
+{"example": "operator exatel will be sold in a public tender .", "label": "0"}
+{"example": "this is the first the real tour begins .", "label": "0"}
+{"example": "a tow truck driver hooking up to a disabled car has been struck and killed by a .", "label": "0"}
+{"example": "scott murphy met from being taken advantage .", "label": "0"}
+{"example": "sends along a", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "laframboise is campaigning for the fourth time in eight years .", "label": "0"}
+{"example": "a pregnant woman was kicked in the stomach .", "label": "0"}
+{"example": "south africa were booed off the field .", "label": "0"}
+{"example": "'s quad - will be called the htc one .", "label": "0"}
+{"example": "five people were injured in an lpg cylinder blast in .", "label": "0"}
+{"example": "the interlochen couple donated their golf course near", "label": "0"}
+{"example": "mariah carey nick canon are having triplets .", "label": "0"}
+{"example": "an ohio health insurance company dropped its lawsuit .", "label": "0"}
+{"example": "ceo donald j. tyson died .", "label": "0"}
+{"example": "the services sector would be taxed from the fiscal year", "label": "0"}
+{"example": "jared harris joins lincoln as ulysses", "label": "0"}
+{"example": "wireless ltd. is looking to raise more than $ 1 billion from indian lenders", "label": "0"}
+{"example": "a goochland man and woman were killed in a wreck .", "label": "0"}
+{"example": "cyprotex has warned profits will be below market expectations .", "label": "0"}
+{"example": "russia and nigeria are set to sign joint venture gas and nuclear deals .", "label": "0"}
+{"example": "the us environmental protection agency announced $ to and up abandoned industrial properties .", "label": "0"}
+{"example": "grace tells britain 's observer music monthly magazine , i .", "label": "0"}
+{"example": "police are looking for two people after a girl was approached in linwood .", "label": "0"}
+{"example": "felipe massa is planning return to racing and joking about keeping michael schumacher away .", "label": "0"}
+{"example": "tropical storm fay made landfall in southwestern florida .", "label": "0"}
+{"example": "microsoft withdrew its proposal to acquire yahoo .", "label": "0"}
+{"example": "a china is developing its first aircraft carrier .", "label": "0"}
+{"example": "a prisoner murdered a fellow inmate .", "label": "0"}
+{"example": "a seaside police officer was arrested on charges of sexual assault .", "label": "0"}
+{"example": "tokyo stocks opened lower monday while a .", "label": "0"}
+{"example": "hu jintao met with his brazilian counterpart .", "label": "0"}
+{"example": "a norwegian military intelligence officer was killed in a bomb blast in northern afghanistan .", "label": "0"}
+{"example": "shane mosley won a victory .", "label": "0"}
+{"example": "gavin newsom 's running for lieutenant governor of california .", "label": "0"}
+{"example": "fewer parents read to their children .", "label": "0"}
+{"example": "james harrison 'll have surgery .", "label": "0"}
+{"example": "bush granted releases to two agents whose convictions .", "label": "0"}
+{"example": "belleville scored eight goals to rally to an win .", "label": "0"}
+{"example": "the golden state warriors beat the denver nuggets", "label": "0"}
+{"example": "the supreme court verdict to delink forest clearance .", "label": "0"}
+{"example": "kelly rowland hosted and performed at chateau .", "label": "0"}
+{"example": "nokia has sold its enterprise mobile tv unit .", "label": "0"}
+{"example": "the government should enforce a stringent law to curb exploitation of natural resources .", "label": "0"}
+{"example": "sky was unable to stop its subscription figures .", "label": "0"}
+{"example": "daisuke matsuzaka felt fine .", "label": "0"}
+{"example": "we have to win and execute plans .", "label": "0"}
+{"example": "student consolidation loans are , the most practical way to get the loan .", "label": "0"}
+{"example": "the pierce county council may weigh in on the illegal immigration debate .", "label": "0"}
+{"example": "zac efron is set to star in a new untitled thriller for mandate pictures .", "label": "0"}
+{"example": "crews say a fire near a natural gas could burn .", "label": "0"}
+{"example": "an erie man was jailed on charges of stealing cash .", "label": "0"}
+{"example": "miley cyrus was hanging after taking a trip .", "label": "0"}
+{"example": "construction activity was slow during .", "label": "0"}
+{"example": "oakland university detroit has canceled classes .", "label": "0"}
+{"example": "an reserve general will take command saturday .", "label": "0"}
+{"example": "the bradford woods man , beaver counties has been ordered to pay more than $ 2.2 million in restitution", "label": "0"}
+{"example": "the grizzlies approached new orleans with a deal for chris paul .", "label": "0"}
+{"example": "the google doodle is celebrating 115 years .", "label": "0"}
+{"example": "purdue pharma and ncpa partnered to create this free tool to help educate pharmacists .", "label": "0"}
+{"example": "president bashar al - assad has denied ordering his troops to kill peaceful demonstrators .", "label": "0"}
+{"example": "a intramural basketball player is recuperating after dislocating fracturing his left shoulder .", "label": "0"}
+{"example": "addis ethiopian coffee defeated adama city 5 2 to .", "label": "0"}
+{"example": "an man has died after falling from a cliff .", "label": "0"}
+{"example": "free agent running michael bush has re - signed with the oakland raiders .", "label": "0"}
+{"example": "jade goody has begun planning her own funeral .", "label": "0"}
+{"example": "a cazenovia funeral home owner has been arrested on multiple sex charges .", "label": "0"}
+{"example": "nascar owner bill davis has sold majority ownership of his race team .", "label": "0"}
+{"example": "a dog accessory company has been sold .", "label": "0"}
+{"example": "air canada has announced a celebration of its 75th anniversary .", "label": "0"}
+{"example": "nasa smithsonian and space museum will invite 30 of their media followers .", "label": "0"}
+{"example": "cuban raul castro has been re - elected for a second term .", "label": "0"}
+{"example": "edward furlong has been arrested .", "label": "0"}
+{"example": "state university has proposed a tuition rate hike for .", "label": "0"}
+{"example": "the nfl scouting combine kicks off with linemen , going .", "label": "0"}
+{"example": "evangelist oral roberts was remembered as a charismatic leader .", "label": "0"}
+{"example": "innovators and researchers will be honoured on july 7th .", "label": "0"}
+{"example": "architect and ron arad is set to create an installation at the .", "label": "0"}
+{"example": "ill ni\u00f1o have entered the studio to begin working release .", "label": "0"}
+{"example": "pfa gordon taylor warns canio he can not be a law .", "label": "0"}
+{"example": "the 133rd birth anniversary , iqbal was observed .", "label": "0"}
+{"example": "thousands of indignant greek anti - austerity protesters took", "label": "0"}
+{"example": "to make his spring training debut visit the new york mets .", "label": "0"}
+{"example": "a swat standoff ended a suspect surrendered following .", "label": "0"}
+{"example": "baghdad three people were killed five in two blasts in iraq .", "label": "0"}
+{"example": "the world was savoring the fall of egypt 's hosni mubarak .", "label": "0"}
+{"example": "american viewers will fall love with cheryl cole .", "label": "0"}
+{"example": "minister silva is prepared to face any probe .", "label": "0"}
+{"example": "thousands of turned out to cheer on troops from the 3 rifles .", "label": "0"}
+{"example": "an ocean springs man has pleaded guilty to two counts of sexual battery .", "label": "0"}
+{"example": "a drug might fight breast cancer .", "label": "0"}
+{"example": "hollyoaks is launching an online open audition process .", "label": "0"}
+{"example": "majority of pakistanis wanted change .", "label": "0"}
+{"example": "two police stations were closed to the public .", "label": "0"}
+{"example": "avatar crossed the $ 1 billion mark at the box office .", "label": "0"}
+{"example": "armored saint have announced the track listing for their completed new album , la raza .", "label": "0"}
+{"example": "the tempo changed for the wallace community leader .", "label": "0"}
+{"example": "kyiv city council has approved a program of support to local government and society 2012 2016 .", "label": "0"}
+{"example": "to make on he", "label": "0"}
+{"example": "rick nash underwent minor throat surgery .", "label": "0"}
+{"example": "foreign mobile phone vendors such as apple are being outgunned .", "label": "0"}
+{"example": "auto sales has the potential to show good growth - perhaps .", "label": "0"}
+{"example": "the body found has been identified as shay jenkins .", "label": "0"}
+{"example": "ngos and nepal made an exposure visit to the shivdaspur red light areas .", "label": "0"}
+{"example": "billy davies today heralded nottingham forest 's performance in their 5 1 thrashing of", "label": "0"}
+{"example": "two commuter trains collided outside boston .", "label": "0"}
+{"example": "jennifer grey plans to have surgery next week .", "label": "0"}
+{"example": "nasa 's international space station will be visible in the skies over the new orleans metropolitan area .", "label": "0"}
+{"example": "morgans hotel group co. today issued the statement to", "label": "0"}
+{"example": "she golden globes win jennifer lopez has revealed she wants an academy award", "label": "0"}
+{"example": "a food processing plant has reopened .", "label": "0"}
+{"example": "fox has apologized to asians .", "label": "0"}
+{"example": "ex gilberto silva is encouraging his felipe melo arsenal .", "label": "0"}
+{"example": "money market mutual fund assets fell $ to $ 2.554 trillion week .", "label": "0"}
+{"example": "ellen asked who was the better kisser .", "label": "0"}
+{"example": "britain 's f\\u0026c asset management was cutting its cost base .", "label": "0"}
+{"example": "barack obama will appear on the episode of mythbusters science works .", "label": "0"}
+{"example": "colombian stocks declined slightly thursday", "label": "0"}
+{"example": "kim kardashian has", "label": "0"}
+{"example": "an nichols hills woman has been found beaten to death and her son arrested .", "label": "0"}
+{"example": "harold camping speaks while holding the bible is retiring", "label": "0"}
+{"example": "adam lambert 's been advised by madonna .", "label": "0"}
+{"example": "hilton worldwide plans to open more hotels in major cities .", "label": "0"}
+{"example": "iowa 's attorney general announced the suspension of the program has been lifted .", "label": "0"}
+{"example": "coach gregg popovich was ejected .", "label": "0"}
+{"example": "the program sustainable agriculture celebrated their 10th anniversary .", "label": "0"}
+{"example": "passes are available for purchase at the city", "label": "0"}
+{"example": "a homemade bomb has exploded outside a courthouse in the city of .", "label": "0"}
+{"example": "privacy advocates are calling on the us federal trade commission facebook changes .", "label": "0"}
+{"example": "pep guardiola admitted inter were the better side after the nerazzurri took a two goal advantage", "label": "0"}
+{"example": "la paz chattanooga was awarded more than $ 100,000 from local foundations .", "label": "0"}
+{"example": "andy soucek has joined virgin racing as reserve driver .", "label": "0"}
+{"example": "the 1992 warrior girls basketball team was honored .", "label": "0"}
+{"example": "heidi klum filed for divorce from seal in la .", "label": "0"}
+{"example": "the difficult decisions have started paying the dividends .", "label": "0"}
+{"example": "the 20-member squad of arrived in to play the international friendly .", "label": "0"}
+{"example": "the only profits made by keeping marijuana illegal are made the cartels companies .", "label": "0"}
+{"example": "part of the the outer banks is closed because of high water .", "label": "0"}
+{"example": "the health threat to city dwellers posed by california wildfires may have been underestimated .", "label": "0"}
+{"example": "zac efron and vanessa hudgens have struck a balance between love career .", "label": "0"}
+{"example": "-german business confidence rose unexpectedly in june .", "label": "0"}
+{"example": "adelaide was voted as the most livable city .", "label": "0"}
+{"example": "michelle obama has an visit scheduled for las vegas .", "label": "0"}
+{"example": "hancock bank has partnered with trusteer to offer the service .", "label": "0"}
+{"example": "gareth ainsworth 's seen worse situations than this .", "label": "0"}
+{"example": "hugh jackman loves to sneak into cinemas .", "label": "0"}
+{"example": "the former bosnian serb president , biljana , was released from swedish prison .", "label": "0"}
+{"example": "celebrity big brother ' star jade goody has been diagnosed with cervical cancer .", "label": "0"}
+{"example": "a co galway publican , whose body was found , died .", "label": "0"}
+{"example": "england declared before the start of play .", "label": "0"}
+{"example": "that 's happened", "label": "0"}
+{"example": "the kyiv district court of kharkiv has appointed the medicolegal investigation and postponed hearing .", "label": "0"}
+{"example": "internet spend increased by 13.5 cent", "label": "0"}
+{"example": "kelsey grammer was hospitalized in new .", "label": "0"}
+{"example": "japan will join talks on a pacific trade pact .", "label": "0"}
+{"example": "diego maradona turned 50 with .", "label": "0"}
+{"example": "charter schools owe for inflating attendance records .", "label": "0"}
+{"example": "jason statham was starring , threw your coffee mug the wall ,", "label": "0"}
+{"example": "az alkmaar has to beat olympiakos .", "label": "0"}
+{"example": "miguel tejada pleaded guilty to .", "label": "0"}
+{"example": "the cost of credit in fiji needs to be a lot robust .", "label": "0"}
+{"example": "mayawati government in uttar pradesh has withdrawn criminal cases .", "label": "0"}
+{"example": "michael vick he owns a dog .", "label": "0"}
+{"example": "fitch has stripped - threatened britain of rating .", "label": "0"}
+{"example": "i was like to be a minority", "label": "0"}
+{"example": "claiborne de borda pell , 90 died .", "label": "0"}
+{"example": "celebrity chef michael symon - will be filming", "label": "0"}
+{"example": "eric greitens , will speak to more than 650 doctoral students .", "label": "0"}
+{"example": "melanie griffith has checked into rehab .", "label": "0"}
+{"example": "european shares extended gains in early trade .", "label": "0"}
+{"example": "a fort myers man was arrested on charges of sexual assault .", "label": "0"}
+{"example": "helped deliver meals to homebound residents .", "label": "0"}
+{"example": "rosemary shrager has become the star to be voted off i", "label": "0"}
+{"example": "rodney allen rippy is is critical condition , but to survive , a motorbike crash .", "label": "0"}
+{"example": "branson says too south africans continue to die of treatable diseases .", "label": "0"}
+{"example": "andrew romanoff wo n't run for congress .", "label": "0"}
+{"example": "leicester have been knocked out of the heineken cup .", "label": "0"}
+{"example": "shimon peres called on the eu , to list hezbollah as a terrorist organization .", "label": "0"}
+{"example": "serena williams apologised for what she called her inappropriate outburst .", "label": "0"}
+{"example": "nexteer automotive plans to manufacture performance", "label": "0"}
+{"example": "aviva is to re - enter the asian general insurance market .", "label": "0"}
+{"example": "the fresno bee will lay off 63 workers .", "label": "0"}
+{"example": "jerry jones gave embattled coach wade phillips somewhat of a vote .", "label": "0"}
+{"example": "it was his own fault", "label": "0"}
+{"example": "china will lift more than 100,000 people out of poverty .", "label": "0"}
+{"example": "the world is an future which would have .", "label": "0"}
+{"example": "tribune broadcasting has reached an agreement with directv", "label": "0"}
+{"example": "its 2010 annual general meeting of shareholders will be held on monday , december 13", "label": "0"}
+{"example": "matt kenseth wins the kobalt 400 las vegas after holding off .", "label": "0"}
+{"example": "wsh committed to world class standards measures .", "label": "0"}
+{"example": "mart stores inc. is cutting 700 to 800 jobs .", "label": "0"}
+{"example": "the commerce department says retail sales fell 0.5 percent in june from", "label": "0"}
+{"example": "somebody new is talking about entering next week 's bankruptcy court auction there is", "label": "0"}
+{"example": "heart 's ann and nancy wilson play an acoustic evening at benaroya .", "label": "0"}
+{"example": "a county school bus attendant was convicted of child neglect assaulted .", "label": "0"}
+{"example": "penske automotive group earned $ 47.7 million", "label": "0"}
+{"example": "why sarah palin is energizing the conservative base .", "label": "0"}
+{"example": "india will remain a trusted partner of africa .", "label": "0"}
+{"example": "parliament represents the will of the people therefore the elected representatives carry heavy responsibly to steer the nation .", "label": "0"}
+{"example": "a thief , fractured his leg .", "label": "0"}
+{"example": "pro golfer tiger woods were spotted jogging .", "label": "0"}
+{"example": "percent ca n't afford to take a vacation in 2011 .", "label": "0"}
+{"example": "boris becker sympathises with tiger woods .", "label": "0"}
+{"example": "the body of a smithfield man had was found this afternoon .", "label": "0"}
+{"example": "the sri lanka army denied using cluster bombs during the war .", "label": "0"}
+{"example": "a vineland man was indicted on attempted murder after .", "label": "0"}
+{"example": "penelope cruz was honoured with the 2,436th star on the hollywood walk of fame .", "label": "0"}
+{"example": "the us coast guard has rescued four boys ages 9 to 13 michigan waters .", "label": "0"}
+{"example": "vizrt is to buy swiss company liberovision .", "label": "0"}
+{"example": "qatargas made a financial contribution in support of its 2nd gasna competition .", "label": "0"}
+{"example": "washington state is still counting ballots a week elections .", "label": "0"}
+{"example": "north korea will bolster its nuclear weaponry with an method .", "label": "0"}
+{"example": "blur unveiled two new tracks .", "label": "0"}
+{"example": "a boil water advisory has been issued for 5,000 homes on the duteau creek .", "label": "0"}
+{"example": "-avram grant will stay on as west ham manager .", "label": "0"}
+{"example": "an ohio man pleaded guilty to attempted murder .", "label": "0"}
+{"example": "ip plc has invested 150,000 pounds in magnomatics limited", "label": "0"}
+{"example": "a brooklyn man stalked his estranged wife , searched belongings assaulted .", "label": "0"}
+{"example": "7 a new version of blackhole exploit kit is on its way .", "label": "0"}
+{"example": "india has sounded a cautionary note .", "label": "0"}
+{"example": "former imf director dominique strauss - kahn has been given back his passport .", "label": "0"}
+{"example": "sarah palin is confident she will be able to pull off a victory .", "label": "0"}
+{"example": "kevin bacon will star in an thriller pilot .", "label": "0"}
+{"example": "bharti enterprises unveiled a new strategic vision .", "label": "0"}
+{"example": "congress approved a $ superstorm sandy aid package .", "label": "0"}
+{"example": "jennifer lopez will return to american idol .", "label": "0"}
+{"example": "zimmer has initiated a product recall at its dover , ohio orthopedic surgical products facility", "label": "0"}
+{"example": "bae systems has won a 2 billion pound contract .", "label": "0"}
+{"example": "levi aron as agreed to plead guilty the .", "label": "0"}
+{"example": "the profit ingosstrakh will make 2bln rbl .", "label": "0"}
+{"example": "the fdi policy is complex and lends to multiple interpretations .", "label": "0"}
+{"example": "mgm mirage auditors questioned as it won reprieve .", "label": "0"}
+{"example": "he 'll defend his heavyweight title .", "label": "0"}
+{"example": "amitabh bachchan will attend the london premiere of akshay kumar 's chandni chowk to china .", "label": "0"}
+{"example": "jack warner claims to have been hung out to dry by fifa .", "label": "0"}
+{"example": "morgan freeman donated that supports barack obama .", "label": "0"}
+{"example": "omnicom group inc said quarterly profit rose 13 percent .", "label": "0"}
+{"example": "britain has outlawed caste discrimination .", "label": "0"}
+{"example": "justin bieber has taken a dna test .", "label": "0"}
+{"example": "let law take its own course .", "label": "0"}
+{"example": "former presidents president the us arrived after noon to witness the historic event", "label": "0"}
+{"example": "uk high street sales fell in .", "label": "0"}
+{"example": "the exhibition symbols has been opened in the dagestan museum of fine arts in makhachkala .", "label": "0"}
+{"example": "a texas case attorney thrown out of a proceeding could have implications attorneys", "label": "0"}
+{"example": "barack obama receives a 40,000 letters .", "label": "0"}
+{"example": "two cape girardeau county men were charged with sexual offenses .", "label": "0"}
+{"example": "ed mcmahon is facing foreclosure .", "label": "0"}
+{"example": "copper fell erasing gains .", "label": "0"}
+{"example": "a kenner property owner has agreed to turn two illegal apartments .", "label": "0"}
+{"example": "i went deep sea fishing .", "label": "0"}
+{"example": "a small , plane registered to a southfield man crashed", "label": "0"}
+{"example": "two men were killed and two injured in a south kohala crash .", "label": "0"}
+{"example": "a large debris pile of brush , trees and branches will be burned .", "label": "0"}
+{"example": "angeles the river is a supernatural adventure tale .", "label": "0"}
+{"example": "india are considering an unusual attack .", "label": "0"}
+{"example": "smithfield foods", "label": "0"}
+{"example": "rajneesh duggal talks about how numerology changed his life .", "label": "0"}
+{"example": "lawmakers could take action on legislation to repeal the ban .", "label": "0"}
+{"example": "the hryvnia exchange rate will remain stable .", "label": "0"}
+{"example": "ratan tata unveiled world 's first gold jewellery car in mumbai .", "label": "0"}
+{"example": "men psychological attributes fail to fit a specific gender have found .", "label": "0"}
+{"example": "barbara walters returned to the view for the first time since january .", "label": "0"}
+{"example": "obama has invited jennifer lopez and marc anthony to watch the super bowl .", "label": "0"}
+{"example": "the jammu bandh hindu parishad passed off peacefully .", "label": "0"}
+{"example": "ultra definition tv , the technology has taken forward to .", "label": "0"}
+{"example": "eastern illinois beat eastern kentucky 24 .", "label": "0"}
+{"example": "dozens of taliban fighters were killed in us air strikes a in western afghanistan .", "label": "0"}
+{"example": "home health kits could be a waste of time .", "label": "0"}
+{"example": "tycoon \u00ae 3", "label": "0"}
+{"example": "charleston firefighters said they 're angry about the change .", "label": "0"}
+{"example": "27 , the european bank for reconstruction and development said will allocate usd 36.5 mln", "label": "0"}
+{"example": "i said i would take the fall for everything .", "label": "0"}
+{"example": "snakebite victims are buried alive", "label": "0"}
+{"example": "elevated cpix inflation is likely to trim real income growth", "label": "0"}
+{"example": "italy has raised euro3.5 in sale was .", "label": "0"}
+{"example": "speed channel inc. will expand its headquarters .", "label": "0"}
+{"example": "a framingham man month was arrested .", "label": "0"}
+{"example": "the group run - dmc was inducted into the rock \\u0026 roll hall of .", "label": "0"}
+{"example": "it 's not something", "label": "0"}
+{"example": "stephen harper risks losing control of his caucus amid reaction to possible federal money for a", "label": "0"}
+{"example": "tax day caused far more anxiety than usual for .", "label": "0"}
+{"example": "traffic wardens are to be given head cams .", "label": "0"}
+{"example": "20 iowa state beat chicago state 62 48 .", "label": "0"}
+{"example": "dennis mannion will be leaving the will resume a more direct role .", "label": "0"}
+{"example": "two former medford soccer coaches have been arrested on charges .", "label": "0"}
+{"example": "mexican emigration has dropped 42 percent .", "label": "0"}
+{"example": "intel is trading higher , so the buyers .", "label": "0"}
+{"example": "flavor flav has been arrested after assaulting someone .", "label": "0"}
+{"example": "president bush is attending his in japan .", "label": "0"}
+{"example": "how will i go home without her said an .", "label": "0"}
+{"example": "blizzard confirmed what most knew , ozzy is going to play .", "label": "0"}
+{"example": "sri lanka lifted a tsunami alert issued after an earthquake .", "label": "0"}
+{"example": "the supreme court cleared the hurdles for the sector saying the", "label": "0"}
+{"example": "indonesia launched a sophisticated new tsunami .", "label": "0"}
+{"example": "actor jason bateman has been banned from talking the .", "label": "0"}
+{"example": "the spartans wrapped up with a four - stroke win over dallas .", "label": "0"}
+{"example": "lenore annenberg , widow of walter annenberg died at the age of 91 .", "label": "0"}
+{"example": "japan is hiring more filipino nurses .", "label": "0"}
+{"example": "hospitals are tightening their visitation policies .", "label": "0"}
+{"example": "railroad crossings enjoyed a safe year in 2007 .", "label": "0"}
+{"example": "david shipley and james p. rubin will join bloomberg news as executive editors .", "label": "0"}
+{"example": "toyota motor corporation announces has added to its safety technologies a radar system .", "label": "0"}
+{"example": "two men were found fatally shot blocks away .", "label": "0"}
+{"example": "about 1,020 graves will be exhumed from march .", "label": "0"}
+{"example": "he is getting strong republican support .", "label": "0"}
+{"example": "a connecticut woman bit off her attacker 's tongue , leaving her attacker hospitalized .", "label": "0"}
+{"example": "a lightning strike sparked a marsh fire .", "label": "0"}
+{"example": "anna hazare is suffering from backache .", "label": "0"}
+{"example": "two navy pilots dumped fuel before it crashed into a virginia apartment complex .", "label": "0"}
+{"example": "vince macmahon will be appearing on wwe raw tonight .", "label": "0"}
+{"example": "the businesses are overtaxed .", "label": "0"}
+{"example": "sen. michael bennet will hold a fundraiser with barack obama in june .", "label": "0"}
+{"example": "a new egyptian bouquet is launching on badr-4 for viewers .", "label": "0"}
+{"example": "javed akhtar is back on the small screen .", "label": "0"}
+{"example": "a man with a knife robbed a convenience store .", "label": "0"}
+{"example": "venezuela is to build a 5 refinery .", "label": "0"}
+{"example": "daylight saving time ends at 2 .", "label": "0"}
+{"example": "the 9/11 memorial on pier a park could cost about $ 200,000 more than anticipated .", "label": "0"}
+{"example": "it 's but what is n't recognised is it is very , very hard work .", "label": "0"}
+{"example": "red hat has acquired amentra .", "label": "0"}
+{"example": "the bell 430 helicopter that went missing was not airworthy", "label": "0"}
+{"example": "scientists have found a new subatomic particle .", "label": "0"}
+{"example": "canadian housing starts bounced back .", "label": "0"}
+{"example": "amazon has increased its kindle fire orders .", "label": "0"}
+{"example": "two people were killed after a car swerved to avoid and crashed .", "label": "0"}
+{"example": "sabha mp began a march to delhi", "label": "0"}
+{"example": "goldcorp would develop the cochenour gold project .", "label": "0"}
+{"example": "a teen is locked up charged with sexual assault .", "label": "0"}
+{"example": "ehud olmert is pleading not guilty .", "label": "0"}
+{"example": "police are searching for the driver in a hit and run accident .", "label": "0"}
+{"example": "a drone attack sunday killed at least seven militants in pakistan .", "label": "0"}
+{"example": "george steinbrenner died after suffering a massive heart attack .", "label": "0"}
+{"example": "pinc research has recommended accumulate on infosys .", "label": "0"}
+{"example": "it 's been rumoured for a while .", "label": "0"}
+{"example": "forward ales hemsky might have a concussion", "label": "0"}
+{"example": "the japanese cabinet resigned ahead of a planned reshuffle .", "label": "0"}
+{"example": "father and son taxi drivers refused to give a ride to a blind man with a service dog .", "label": "0"}
+{"example": "jimmy buffett covered a johnny clegg song back in 1988 .", "label": "0"}
+{"example": "debt of any bank , is not sovereign .", "label": "0"}
+{"example": "john mccain president .", "label": "0"}
+{"example": "the union president is criticising congress executives for .", "label": "0"}
+{"example": "mumbai a week 's lull heavy rains lashed mumbai .", "label": "0"}
+{"example": "some state agencies risk losing more than $ 250 million in federal stimulus funds .", "label": "0"}
+{"example": "a sioux city woman faces charges of and child endangerment .", "label": "0"}
+{"example": "nitish kumar visited his ancestral kalyanbigha village .", "label": "0"}
+{"example": "brisbane river oil spill moves upstream", "label": "0"}
+{"example": "flights have increased flight capacity to turkey", "label": "0"}
+{"example": "medvedev won over 70 percent in russian vote eds", "label": "0"}
+{"example": "spot platinum fell more than 3 on concerns about .", "label": "0"}
+{"example": "ny man owes $ 1 million in child support say they .", "label": "0"}
+{"example": "vienna hopes to build the highest lego tower .", "label": "0"}
+{"example": "alberta has slipped into recession .", "label": "0"}
+{"example": "earl pomeroy will not run for senate .", "label": "0"}
+{"example": "a flood wall has been put into place .", "label": "0"}
+{"example": "the airline kingfisher will suspend all international flights .", "label": "0"}
+{"example": "the health of pupils and is being compromised .", "label": "0"}
+{"example": "the executive director of holland 's tulip time festival has been fired .", "label": "0"}
+{"example": "hideki matsui ran the bases for the first time .", "label": "0"}
+{"example": "putin has applied the wrecking ball to syria .", "label": "0"}
+{"example": "the queen has been welcomed to parliament house dinner .", "label": "0"}
+{"example": "andy murray lifted his first masters title .", "label": "0"}
+{"example": "energy corp. said its profit tumbled 77 percent oil prices cut .", "label": "0"}
+{"example": "nearly 50 percent of employees have considered leaving their jobs .", "label": "0"}
+{"example": "a teacher was suspended for hitting a pupil .", "label": "0"}
+{"example": "a renovation worker was jailed three years .", "label": "0"}
+{"example": "fusion has appointed a new site manager .", "label": "0"}
+{"example": "annabel tollman died in her sleep .", "label": "0"}
+{"example": "prime ministers come and go .", "label": "0"}
+{"example": "the family of a minnesota student who died in japan is suing .", "label": "0"}
+{"example": "jack warner claims to have been hung out to dry by fifa .", "label": "0"}
+{"example": "islamic militants killed an ethiopian soldier in .", "label": "0"}
+{"example": "may help prevent cancer", "label": "0"}
+{"example": "us import prices jumped in december .", "label": "0"}
+{"example": "a person places a campaign placard memorial set up .", "label": "0"}
+{"example": "air canada has concluded a secured financing transaction .", "label": "0"}
+{"example": "erik wells will be heading to afghanistan .", "label": "0"}
+{"example": "prince philip is responding to hospital treatment after a recurrence of a infection .", "label": "0"}
+{"example": "glee returns tonight hiatus .", "label": "0"}
+{"example": "txtnation will add three new plug .", "label": "0"}
+{"example": "the former eliot spitzer who was is thinking about a return to politics .", "label": "0"}
+{"example": "dominique strauss - kahn was released from the jail", "label": "0"}
+{"example": "mark reynolds took grounders .", "label": "0"}
+{"example": "wayne rooney made one as manchester united outplayed schalke 2 0 in leg of champions .", "label": "0"}
+{"example": "charges against a west elementary school teacher have been dropped .", "label": "0"}
+{"example": "russia devalued the ruble for the third time in a week", "label": "0"}
+{"example": "air canada is reporting a net loss of $ 46 million .", "label": "0"}
+{"example": "12.5.2011 government will bring in a new land acquisition law .", "label": "0"}
+{"example": "a beach woman accidentally fell from a balcony .", "label": "0"}
+{"example": "vtlwavenet has launched its carrier ethernet product .", "label": "0"}
+{"example": "mike leach genius has been suspended", "label": "0"}
+{"example": "xavier tondo has been killed in a freak accident .", "label": "0"}
+{"example": "the campaign , our is sponsored", "label": "0"}
+{"example": "oracle racing , returned to san francisco bay .", "label": "0"}
+{"example": "mike gatting will oversee the ambitious 200-million pound makeover plan .", "label": "0"}
+{"example": "ugandan opposition leader kizza besigye was arrested .", "label": "0"}
+{"example": "sirius xm radio has been downgraded by thestreet ratings buy .", "label": "0"}
+{"example": "miriam makeba has died suffering a heart attack .", "label": "0"}
+{"example": "an australian and a canadian have been found dead after a suspected drug overdose .", "label": "0"}
+{"example": "kim kardashian would justin bieber , if he were of legal age .", "label": "0"}
+{"example": "christopher nolan has died at 43 .", "label": "0"}
+{"example": "a ana ivanovic had achieved a lifetime goal winning her grand title .", "label": "0"}
+{"example": "rh donnelley has filed for chapter 11 bankruptcy protection .", "label": "0"}
+{"example": "lockheed martin plans to cut 1,500 additional jobs .", "label": "0"}
+{"example": "a engineering student was stabbed to death by his .", "label": "0"}
+{"example": "the yen fell as signs the recovery is gaining traction demand .", "label": "0"}
+{"example": "jupp heynckes has called for reinforcements", "label": "0"}
+{"example": "health care spending in canada is expected to reach $ 183.1 billion in 2009", "label": "0"}
+{"example": "tbs has renewed cougar town .", "label": "0"}
+{"example": "tigerdirect is offering the toshiba 55 lcd hdtv .", "label": "0"}
+{"example": "we have played into", "label": "0"}
+{"example": "has rejected", "label": "0"}
+{"example": "tiger woods has dropped out of the world 's top 20 .", "label": "0"}
+{"example": "a man is facing charges .", "label": "0"}
+{"example": "pat brady resigned tuesday .", "label": "0"}
+{"example": "lindsay lohan refused to charlie sheen movie .", "label": "0"}
+{"example": "poles are voting in parliamentary elections .", "label": "0"}
+{"example": "the new restaurant offers hong kong style food .", "label": "0"}
+{"example": "a saskatoon rescue boat out on an emergency call had to be rescued .", "label": "0"}
+{"example": "mtv is readying to do the time warp .", "label": "0"}
+{"example": "court records show a lawsuit filed against leonardo dicaprio has been dismissed .", "label": "0"}
+{"example": "russia may create an oil reserve to influence global prices", "label": "0"}
+{"example": "indian service sector has shown excellent growth .", "label": "0"}
+{"example": "pure gold jewellers is offering an 65 % discount", "label": "0"}
+{"example": "summer signing chris iwelumo is looking for a fresh start at watford .", "label": "0"}
+{"example": "revenues were running 24 % lower after a deterioration .", "label": "0"}
+{"example": "dipu moni leaves dhaka for kazakhstan .", "label": "0"}
+{"example": "mtn", "label": "0"}
+{"example": "a pair of unsurprising results came , with .", "label": "0"}
+{"example": "the takoradi court 93a remanded 13 dock workers .", "label": "0"}
+{"example": "rennes lost ground in the french title race .", "label": "0"}
+{"example": "weather covered the upper midwest .", "label": "0"}
+{"example": "jones star , renee zellweger is set to marry beau", "label": "0"}
+{"example": "contact energy has bought two gas turbine units to .", "label": "0"}
+{"example": "some new hampshire towns are seeing an increase in bad checks .", "label": "0"}
+{"example": "barack obama has ordered his administration to take active .", "label": "0"}
+{"example": "gamestop announced to purchase free gaming portal kongregate .", "label": "0"}
+{"example": "cleveland clinic is making its patients ' electronic medical records transparent .", "label": "0"}
+{"example": "canadian pacific railway ltd. net income fell 21 percent wrote .", "label": "0"}
+{"example": "dick 's sporting goods has suspended the sale of modern sporting rifles .", "label": "0"}
+{"example": "older people are being warned about the latest phone scam .", "label": "0"}
+{"example": "cambodian musicians joined orchestra to raise for children .", "label": "0"}
+{"example": "thirteen bodies were found in an abandoned truck in mexico .", "label": "0"}
+{"example": "exhibition , a magazine covering , has devoted its first issue to lipstick .", "label": "0"}
+{"example": "porsche se is close to reaching a deal qatar .", "label": "0"}
+{"example": "at least 50 rare jackals were poisoned to death in india by farmers angry over alleged attacks", "label": "0"}
+{"example": "the number of nebraska foreclosures is on the rise .", "label": "0"}
+{"example": "j\\u0026 k has potential for the geothermal power and tourism .", "label": "0"}
+{"example": "flashcom has launched isdn services .", "label": "0"}
+{"example": "unions should be constructive partners in", "label": "0"}
+{"example": "richard agar has been appointed as new france coach on a basis .", "label": "0"}
+{"example": "traffic and load factor fell .", "label": "0"}
+{"example": "veterans and health care workers rallied to demand better health care for war veterans .", "label": "0"}
+{"example": "israel has denied intercepting a second international aid ship headed for the gaza strip .", "label": "0"}
+{"example": "airline will take delivery of its second a380", "label": "0"}
+{"example": "timothy geithner pressed euro zone ministers", "label": "0"}
+{"example": "the gaga performed at odyssey area in belfast .", "label": "0"}
+{"example": "gordon brown warned of a hard summer .", "label": "0"}
+{"example": "spain has increased bank deposit guarantees .", "label": "0"}
+{"example": "all police leave has been cancelled .", "label": "0"}
+{"example": "minimum temperatures hovered above the normal even .", "label": "0"}
+{"example": "gold firmed in , but slipped .", "label": "0"}
+{"example": "kathleen rice said has no plans to run for governor .", "label": "0"}
+{"example": "employers ' groups have called for the government to rethink its cap .", "label": "0"}
+{"example": "the feds issued a new indictment against in a case .", "label": "0"}
+{"example": "earth garden festival returns with a new pricing system .", "label": "0"}
+{"example": "hawkins plans to retire in april .", "label": "0"}
+{"example": "caribbean airlines has finalized its acquisition of air jamaica .", "label": "0"}
+{"example": "mochahost announced its partnership with the sitelock .", "label": "0"}
+{"example": "sam shepard was arrested in illinois on a dui charge .", "label": "0"}
+{"example": "hautelook it will be bringing its online sample sales to facebook .", "label": "0"}
+{"example": "a top cycling event will be hitting the region next month .", "label": "0"}
+{"example": "the disney store is offering free shipping .", "label": "0"}
+{"example": "a sioux falls man who was intoxicated says he does n't remember the robbery and standoff .", "label": "0"}
+{"example": "the area command officers took part in a march .", "label": "0"}
+{"example": "update", "label": "0"}
+{"example": "south korean shares reversed early gains to end lower friday .", "label": "0"}
+{"example": "steve beshear he requested a federal disaster declaration from barack obama .", "label": "0"}
+{"example": "banda has instructed the ministry of finance", "label": "0"}
+{"example": "a state trooper on a routine call has rescued a man whom .", "label": "0"}
+{"example": "long hours of were back to haunt as three power plants .", "label": "0"}
+{"example": "bullets have been found in a package addressed .", "label": "0"}
+{"example": "johan franzen skated again mike babcock thinks he will .", "label": "0"}
+{"example": "a liverpool ticket tout has been banned .", "label": "0"}
+{"example": "the american red cross and the area junior league held a mardi gras themed blood drive .", "label": "0"}
+{"example": "premier wen jiabao arrived in ulan bator to start his visit to mongolia .", "label": "0"}
+{"example": "a brunswick mp will head up the opportunities agency to allow defence minister peter mackay to focus on afghanistan .", "label": "0"}
+{"example": "the czech republic is expected to re - open its general consulate .", "label": "0"}
+{"example": "gov. chet culver is testifying in the casino contribution case .", "label": "0"}
+{"example": "criminals will be sprucing up potters bar next week .", "label": "0"}
+{"example": "italy 's silvio berlusconi has blamed the mafia for the sex scandal", "label": "0"}
+{"example": "the kazakh government plans to slash export duty .", "label": "0"}
+{"example": "italy 's matteo manassero came to win the bmw pga championship .", "label": "0"}
+{"example": "chalie has released i 'm .", "label": "0"}
+{"example": "a man has died after falling off a cliff .", "label": "0"}
+{"example": "the gold pension plans for ontario need to be changed to be more like ones", "label": "0"}
+{"example": "the juniors reaching the memorial were eliminated", "label": "0"}
+{"example": "kristen stewart has been dubbed as the hated women .", "label": "0"}
+{"example": "washington", "label": "0"}
+{"example": "icici bank , axis bank look weak .", "label": "0"}
+{"example": "six people were hospitalized with carbon monoxide poisoning .", "label": "0"}
+{"example": "somali pirates have freed a chemical tanker .", "label": "0"}
+{"example": "two judges involved in a freak accident say they .", "label": "0"}
+{"example": "the air quality hit the level of serious pollution in beijing .", "label": "0"}
+{"example": "chemical maker lyondellbasell plans to buy about 200 miles of pipeline .", "label": "0"}
+{"example": "three rivers school board cancelled its meeting planned for tonight .", "label": "0"}
+{"example": "gold futures fell from a record $ an on sales .", "label": "0"}
+{"example": "manchester united have turned down a bid from newcastle united for morrison .", "label": "0"}
+{"example": "gold futures surged to record , driven by a overseas trend", "label": "0"}
+{"example": "alisher usmanov has increased his stake in arsenal to more than 26 percent .", "label": "0"}
+{"example": "4 g users will have to pay an additional $ 10 fee for premium data confirmed it", "label": "0"}
+{"example": "rubens barrichello and nico rosberg are set to swap race seats next year .", "label": "0"}
+{"example": "colorado had recalled david van der gulik .", "label": "0"}
+{"example": "ed kalman has been called into the scotland squad .", "label": "0"}
+{"example": "yamaha celebrated 125 years of making music in .", "label": "0"}
+{"example": "hampton holiday parade is .", "label": "0"}
+{"example": "the federal emergency management agency has authorized federal funds to pay for 75 % of state .", "label": "0"}
+{"example": "mccarthy to be mourned in two states", "label": "0"}
+{"example": "fifth third bancorp has repurchased the warrant issued to the us department of treasury .", "label": "0"}
+{"example": "oil futures ended higher after upbeat data .", "label": "0"}
+{"example": "it is that embattled tiger woods is considering going", "label": "0"}
+{"example": "the iris the holy cross presents compilation", "label": "0"}
+{"example": "a fire broke out at a church located the .", "label": "0"}
+{"example": "players are using textiles to get .", "label": "0"}
+{"example": "colorado will receive $ 40 million to turn around its schools .", "label": "0"}
+{"example": "chinese automaker great wall motor co. has invested rmb400 million in an parts plant in tianjin .", "label": "0"}
+{"example": "iwidgets 's launching its beta version .", "label": "0"}
+{"example": "gov. bill bolling joined the development authority to announce three economic development projects", "label": "0"}
+{"example": "brightpearl software today announced an integration with shopify .", "label": "0"}
+{"example": "john kerry called for an end to the lifetime ban .", "label": "0"}
+{"example": "claims for unemployment benefits fell by 33,000 .", "label": "0"}
+{"example": "chunghwa telecom co ltd plans to cut its share capital", "label": "0"}
+{"example": "team anna today decided to send notices to 14 union ministers whom .", "label": "0"}
+{"example": "a group of sauber engineers were robbed at jenson button .", "label": "0"}
+{"example": "the moderate reformist groups should be recognized .", "label": "0"}
+{"example": "barney frank has introduced a bill that would end the federal ban on marijuana .", "label": "0"}
+{"example": "first visited the candidate of andrias ghukasyan .", "label": "0"}
+{"example": "robin gibb is fighting pneumonia in hospital", "label": "0"}
+{"example": "director mario monicelli , considered one of the fathers died .", "label": "0"}
+{"example": "players need adequate rest .", "label": "0"}
+{"example": "carla bruni - sarkozy will visit aids programmes in burkina faso .", "label": "0"}
+{"example": ".", "label": "0"}
+{"example": "david cameron today dismissed demands for a mansion tax .", "label": "0"}
+{"example": "j. dodd , a connecticut democrat , was diagnosed .", "label": "0"}
+{"example": "a man has died after he was pulled from the lake", "label": "0"}
+{"example": "european investor confidence rose for a third month in november .", "label": "0"}
+{"example": "ceo of intercontinentalexchange inc. sprecher sells 56,628 shares of ice on 06/29/2011 .", "label": "0"}
+{"example": "a park hill man pleaded guilty to a drug charge .", "label": "0"}
+{"example": "a kamloops , bc judge has rejected a homo panic defence .", "label": "0"}
+{"example": "the never winter is shaping up to be the coldest for 30 years .", "label": "0"}
+{"example": "the feeling set my on fire lyrics is a new song by uk rock group .", "label": "0"}
+{"example": "a barrow county woman has been charged with animal cruelty .", "label": "0"}
+{"example": "sebastien ogier held off a strong challenge to win the rally france .", "label": "0"}
+{"example": "john o'mahony has urged mayo farmers to avail of the .", "label": "0"}
+{"example": "the taliban blew up a boys ' school in khyber .", "label": "0"}
+{"example": "kevin boss was held out of practice with a concussion .", "label": "0"}
+{"example": "the limestone boys basketball team has forfeited 18 victories .", "label": "0"}
+{"example": "seattle police say they review tactics an officer was shown .", "label": "0"}
+{"example": "texas instruments inc. has agreed to buy national semiconductor corp. for $ 6.5 billion .", "label": "0"}
+{"example": "tom cruise wanted to kill adolf hitler .", "label": "0"}
+{"example": "a of she was driving under the influence of prescription drugs .", "label": "0"}
+{"example": "falls church city council voted to adopt the plan .", "label": "0"}
+{"example": "a millbrook man faces charges after an altercation .", "label": "0"}
+{"example": "india 's defence preparedness should be par with the threats", "label": "0"}
+{"example": "columbia sportswear co. is expanding its e - commerce operations to canada .", "label": "0"}
+{"example": "construction resumed on a border fence along the colorado river .", "label": "0"}
+{"example": "roberto hernandez has received his us visa .", "label": "0"}
+{"example": "another nano car caught fire", "label": "0"}
+{"example": "panasonic has invested $ 30 m in tesla motors .", "label": "0"}
+{"example": "franck ribery will not appeal the decision by federation to ban .", "label": "0"}
+{"example": "about brant cadovius new milford police officer brant cadovius was fired .", "label": "0"}
+{"example": "fled .", "label": "0"}
+{"example": "the federal reserve added $ 50 billion in temporary reserves to the banking system when it arranged agreements .", "label": "0"}
+{"example": "a person was shot and killed in west toledo .", "label": "0"}
+{"example": "housing administration loans have made a comeback .", "label": "0"}
+{"example": "jose aldo retained his title at .", "label": "0"}
+{"example": "a federal judge blocked the importation of a drug used in executions .", "label": "0"}
+{"example": "canada 's economy will slow sharply in the second half of 2010 after roaring out of the recession .", "label": "0"}
+{"example": "gold traders stocked up in small quantities for akshaya tritiya , the second biggest gold buying festival .", "label": "0"}
+{"example": "two roxburgh park men have been charged with murder .", "label": "0"}
+{"example": "doug hoffman conceded victory .", "label": "0"}
+{"example": "lance armstrong escaped prosecution on the doping charges", "label": "0"}
+{"example": "fourteen students were arrested .", "label": "0"}
+{"example": "pakistan is facing a very serious internal threat to its integrity", "label": "0"}
+{"example": "harvard scientists say they have created stems cells for 10 genetic disorders", "label": "0"}
+{"example": "pinson valley checks 9 in first baseball rankings pinson valley checks is ranked no . 9 in", "label": "0"}
+{"example": "kenya and tanzania have agreed to increase border security co - operation to curb .", "label": "0"}
+{"example": "three us envoys are scheduled to visit myanmar next week .", "label": "0"}
+{"example": "samael are streaming a new song titled black hole online .", "label": "0"}
+{"example": "the established pon de edge bar was demolished .", "label": "0"}
+{"example": "metro employees are bidding to run the tyne system .", "label": "0"}
+{"example": "steve jobs resigned as apple ceo", "label": "0"}
+{"example": "robert joel halderman guilty", "label": "0"}
+{"example": "the railways have decided to hold meetings to monitor progress of railway projects .", "label": "0"}
+{"example": "stars malcom jamal warner \\u0026 regina king break up after .", "label": "0"}
+{"example": "a northland man killed after his tractor rolled has been named .", "label": "0"}
+{"example": "a parliamentary session met .", "label": "0"}
+{"example": "ap writer iran has dug mass graves .", "label": "0"}
+{"example": "towergate bakers a have announced a new initiative .", "label": "0"}
+{"example": "alex rodriguez hit his 600th home run .", "label": "0"}
+{"example": "eddie cibrian is suing claiming he was cheating .", "label": "0"}
+{"example": "144,900 candidates from 162 countries have registered for the cfa exam .", "label": "0"}
+{"example": "waikato victory means the shield stays in hamilton for the summer .", "label": "0"}
+{"example": "assassin 's creed brotherhood , the adventures has been announced .", "label": "0"}
+{"example": "dhaka metro won the bronze medal outplaying khulna in the deciding match .", "label": "0"}
+{"example": "charlotte church is being tipped .", "label": "0"}
+{"example": "writers have reached a tentative agreement .", "label": "0"}
+{"example": "microsoft corp agreed to acquire virtualization kidaro .", "label": "0"}
+{"example": "ceremony , was held at a local hotel .", "label": "0"}
+{"example": "the proposed ems levy failed .", "label": "0"}
+{"example": "chelsea manager rafael benitez ended a turbulent week .", "label": "0"}
+{"example": "bmo bank is changing its residential mortgage rates .", "label": "0"}
+{"example": "dell has expanded its networking portfolio .", "label": "0"}
+{"example": "- claude trichet there is no room for complacency over inflation in the euro zone .", "label": "0"}
+{"example": "geoff lawson has no intention of quitting .", "label": "0"}
+{"example": "o'malley signed 170 pieces of legislation .", "label": "0"}
+{"example": "dean ashton has rocked west ham gianfranco zola .", "label": "0"}
+{"example": "asif ali zardari ruled out handing over the perpetrators of the mumbai attacks to india .", "label": "0"}
+{"example": "omniture has joined the mobile marketing association .", "label": "0"}
+{"example": "asian markets advanced after won approval", "label": "0"}
+{"example": "no child is without education and a proper home .", "label": "0"}
+{"example": "teradata corporation shop direct has selected teradata and its", "label": "0"}
+{"example": "hilary duff was surprised by her boyfriend mike comrie 's proposal .", "label": "0"}
+{"example": "a carolina trooper has pleaded guilty to a felony charge .", "label": "0"}
+{"example": "the spy scandal in ukraine should not be dramatized .", "label": "0"}
+{"example": "mohamed morsi said wants abdul rahman to serve out the rest of his sentence", "label": "0"}
+{"example": "the bulls will have him take his first contact practice surgery .", "label": "0"}
+{"example": "an inquest was opened and adjourned into the death of a tree surgeon .", "label": "0"}
+{"example": "a plan to turn a landfill site has taken a .", "label": "0"}
+{"example": "milan beat chievo 1 0 to share first place in the serie a .", "label": "0"}
+{"example": "the colonial east india company is owned by an indian which is .", "label": "0"}
+{"example": "former skier jeremy bloom helped raise over $ 100,000 at his wish .", "label": "0"}
+{"example": "the voting age wrong .", "label": "0"}
+{"example": "the philadelphia eagles are searching for a defensive coordinator .", "label": "0"}
+{"example": "eva longoria filed for divorce husband .", "label": "0"}
+{"example": "saxophonist , james moody died at his home .", "label": "0"}
+{"example": "stocks finished little changed in trading .", "label": "0"}
+{"example": "actress nia long welcomed a son", "label": "0"}
+{"example": "a hephzibah toddler was attacked by a pit bull .", "label": "0"}
+{"example": "the cavaliers have hired david griffin as their vice president of basketball operations .", "label": "0"}
+{"example": "bank of america refinance mortgage rates continued .", "label": "0"}
+{"example": "toronto dominion bank has launched a td mobile application for blackberry and devices .", "label": "0"}
+{"example": "apple inc will open its first french store .", "label": "0"}
+{"example": "say a player is accused of sexual assault .", "label": "0"}
+{"example": "retail stocks slid and an analyst downgrade sent .", "label": "0"}
+{"example": "alan simpson today brandished a bath plug had distracted from .", "label": "0"}
+{"example": "raymond nilson pleaded guilty to assaulting a fairfield woman .", "label": "0"}
+{"example": "a treasure trove of stolen goods has been found tents .", "label": "0"}
+{"example": "labcon north america , , has announced the completion of an rooftop solar system .", "label": "0"}
+{"example": "blip.tv has raised $ 10.1 million in funding .", "label": "0"}
+{"example": "hairston suffered a bit of a setback .", "label": "0"}
+{"example": "bangsamoro signed the .", "label": "0"}
+{"example": "villa today failed in a late bid to sign midfielder joe cole .", "label": "0"}
+{"example": "barbara mcnair died", "label": "0"}
+{"example": "growth slowed , depressed by a decline in purchases in europe 's economy .", "label": "0"}
+{"example": "angus and julia stone have announced their second uk tour .", "label": "0"}
+{"example": "the health policy report , has reached the recommendations stage .", "label": "0"}
+{"example": "new child restraint laws will have to .", "label": "0"}
+{"example": "a creepy customer was caught pleasuring himself while walking .", "label": "0"}
+{"example": "coal india will recruit about 2,500 entry level executives in next five years .", "label": "0"}
+{"example": "a fort wayne man charged with six counts of child molesting will go to trial next month .", "label": "0"}
+{"example": "\u00f3lafur arnalds has announced the release of his second full - length album .", "label": "0"}
+{"example": "the live export season is getting ready to start in wa .", "label": "0"}
+{"example": "oil prices grow .", "label": "0"}
+{"example": "esther williams , whose experiences champion died", "label": "0"}
+{"example": "texas rick perry is calling social security a monstrous lie .", "label": "0"}
+{"example": "woman dies after car crash with truck", "label": "0"}
+{"example": "julia were", "label": "0"}
+{"example": "raw was involved .", "label": "0"}
+{"example": "the congress has never closed for talks with team anna .", "label": "0"}
+{"example": "beanie sigel was jailed wednesday .", "label": "0"}
+{"example": "htc desire deals are also in great demand", "label": "0"}
+{"example": "nato keeps the door open for a possible accession of georgia .", "label": "0"}
+{"example": "frederick chiluba has died at his home .", "label": "0"}
+{"example": "steven mills , senior , performance and growth , has elected to retire as .", "label": "0"}
+{"example": "the first baby was born university hospital .", "label": "0"}
+{"example": "currency markets will closely watch chinese exchange rates .", "label": "0"}
+{"example": "the lincoln county crews are decreasing their search efforts .", "label": "0"}
+{"example": "the reds jonny gomes agreed to a minor league contract .", "label": "0"}
+{"example": "the washington redskins they have revised the policy concerning signs .", "label": "0"}
+{"example": "salman butt has filed an appeal against a sentence .", "label": "0"}
+{"example": "massachusetts state police they took a gun off a jetblue ( pilot .", "label": "0"}
+{"example": "chinese tourists eager have swamped a taiwan museum .", "label": "0"}
+{"example": "somali pirates seized four ships .", "label": "0"}
+{"example": "veteran senator john kerry was sworn in state .", "label": "0"}
+{"example": "equities research analysts at jpmorgan chase lowered their price target .", "label": "0"}
+{"example": "a vancouver physiotherapist is facing a charge of defrauding icbc of thousands of dollars .", "label": "0"}
+{"example": "the new york times announced the release of the nytimes application for blackberry \u00ae smartphones .", "label": "0"}
+{"example": "hmv used augmented reality to bring products to life .", "label": "0"}
+{"example": "robbie williams fighting a mystery illness .", "label": "0"}
+{"example": "a lng tanker headed from iraq to georgia capsized .", "label": "0"}
+{"example": "the palestinian authority warned clashes by israeli settlers in hebron could end the peace process .", "label": "0"}
+{"example": "conrad murray pleaded not guilty .", "label": "0"}
+{"example": "the australian financial system had coped better .", "label": "0"}
+{"example": "whose song chasing pavements", "label": "0"}
+{"example": "facebook shares have gone on sale to the public .", "label": "0"}
+{"example": "director ken russell has died following series strokes .", "label": "0"}
+{"example": "the district court in delaware today entered final judgment", "label": "0"}
+{"example": "estelle and kanye west held on the number one spot with american boy .", "label": "0"}
+{"example": "armenia fund usa donated much needed laptop computers .", "label": "0"}
+{"example": "the san diego padres signed veteran jeff to a league contract .", "label": "0"}
+{"example": "as the song goes do n't know .", "label": "0"}
+{"example": "residents are remembering those who have paid the ultimate price ,", "label": "0"}
+{"example": "love is already in the air .", "label": "0"}
+{"example": "gemfields is keen on acquiring jewelry brand faberge .", "label": "0"}
+{"example": "a 300-strong hikoi marched to lay to rest the foreshore and seabed legislation .", "label": "0"}
+{"example": "thousands of mourners and protesters gathered .", "label": "0"}
+{"example": "baltimore county police are investigating a rape .", "label": "0"}
+{"example": "smes board index opened low at 4299.15 points .", "label": "0"}
+{"example": "bikini atoll has been submitted for listing as a world heritage site .", "label": "0"}
+{"example": "australian shares opened up .", "label": "0"}
+{"example": "fishermen are to take legal action .", "label": "0"}
+{"example": "venezuela vowed to defeat exxon mobil corp. in a legal battle .", "label": "0"}
+{"example": "autocanada inc. today announced the appointments of tom orysiuk , ca as president , steve rose as vice finance .", "label": "0"}
+{"example": "the parole board had but to release a double rapist as all legal methods .", "label": "0"}
+{"example": "zeacom announced its lead sponsor for its .", "label": "0"}
+{"example": "cnmi swimming records fell .", "label": "0"}
+{"example": "police officers have an updated contract , with the city council to approve the pact .", "label": "0"}
+{"example": "john galliano was arrested in .", "label": "0"}
+{"example": "cleveland indians closer chris perez have been charged with misdemeanor drug possession .", "label": "0"}
+{"example": "halle berry was rushed to the hospital an .", "label": "0"}
+{"example": "company is raising its fuel surcharge .", "label": "0"}
+{"example": "torturers ripped out and gave him electric shocks .", "label": "0"}
+{"example": "the number of building approvals fell for a seventh straight month .", "label": "0"}
+{"example": "she walked the ramp for manish malhotra celebrate the issue 's launch .", "label": "0"}
+{"example": "quaid board they are seeking refuge in canada .", "label": "0"}
+{"example": "more communities are handing over police protection to state troopers .", "label": "0"}
+{"example": "unicef today called for an immediate end to the siege of misrata .", "label": "0"}
+{"example": "katie holmes is set to play jacqueline kennedy .", "label": "0"}
+{"example": "generex biotechnology corporation commented on trading activity in its .", "label": "0"}
+{"example": "indmobile announced the launch of hopsim , international travel sim card .", "label": "0"}
+{"example": "sherwin - williams co posted sharply lower quarterly profit thursday .", "label": "0"}
+{"example": "private drug plans are not sustainable in .", "label": "0"}
+{"example": "a corner brook man could go to trial .", "label": "0"}
+{"example": "efi adds a new dimension to its fiery services portfolio .", "label": "0"}
+{"example": "facebook acquired 750 patents from ibm .", "label": "0"}
+{"example": "mobile operator polkomtel will introduce a new pre offer called on .", "label": "0"}
+{"example": "a sudanese refugee washes her hands in gendrassa camp in .", "label": "0"}
+{"example": "oil futures fell below 80 us dollars .", "label": "0"}
+{"example": "ole miss would suspend four players .", "label": "0"}
+{"example": "why roundabouts wo n't work this .", "label": "0"}
+{"example": "% of marketers do n't test their e - mail campaigns", "label": "0"}
+{"example": "ntpc ltd has signed three loan agreements of rs 1,870 crore with domestic banks .", "label": "0"}
+{"example": "sberbank won a claim for usd 35 mln .", "label": "0"}
+{"example": "a boy hit by a car ran and remains in a critical condition .", "label": "0"}
+{"example": "oil steadied above $ 101 .", "label": "0"}
+{"example": "germany had abolished national visa consular fees belarusian citizens .", "label": "0"}
+{"example": "deliveries to the morrisons supermarket will increase after the firm was given the green light .", "label": "0"}
+{"example": "support is quietly mounting in the congress , especially among democrats", "label": "0"}
+{"example": "to include mobile devices ongoing shift away from pcs to cellphones", "label": "0"}
+{"example": "microsoft has got another government contract .", "label": "0"}
+{"example": "michigan running back fitzgerald toussaint pleaded guilty .", "label": "0"}
+{"example": "nancy pelosi has been heckled by fellow democrats .", "label": "0"}
+{"example": "became trapped inside a running washing machine reported", "label": "0"}
+{"example": "hall of warren moon has pleaded innocent to drunken driving .", "label": "0"}
+{"example": "aust embassy helped sisters leave italy", "label": "0"}
+{"example": "nepalese journalist ' buried alive", "label": "0"}
+{"example": "can not source to meet ambitious new carbon emission targets .", "label": "0"}
+{"example": "a liverpool man has died after a motorcycle crash .", "label": "0"}
+{"example": "talkswitch has signed a distribution agreement with intramation .", "label": "0"}
+{"example": "a truck carrying components has crashed into the local shop .", "label": "0"}
+{"example": "toledo police arrested nine men on charges of assaulting two police detectives .", "label": "0"}
+{"example": "brian mcfadden is set to launch a new custody battle .", "label": "0"}
+{"example": "girls may be less likely than boys to have their height checked .", "label": "0"}
+{"example": "the ecb cut its key lending rate .", "label": "0"}
+{"example": "water tumbles into a pool .", "label": "0"}
+{"example": "xilinx is to acquire modelware .", "label": "0"}
+{"example": "sen. robert c. byrd will remain hospitalized for more days for treatment of a mild infection .", "label": "0"}
+{"example": "gene stallings says he wants the big 12 to survive - .", "label": "0"}
+{"example": "perri shakes - drayton has vowed to bounce .", "label": "0"}
+{"example": "angelina jolie orders her christmas shopping .", "label": "0"}
+{"example": ", but i feel this 20-year vision for rutland is more of a nightmare .", "label": "0"}
+{"example": "sony corp plans to halve the number of its parts materials suppliers", "label": "0"}
+{"example": "jactravel has unveiled a dedicated channel management strategy .", "label": "0"}
+{"example": "catholic healthcare west has changed its name to dignity health", "label": "0"}
+{"example": "the university of tennessee medical center opened a new 755-space parking garage .", "label": "0"}
+{"example": "lara might have dated tiger for a while .", "label": "0"}
+{"example": "gov. chris christie and his wife earned more than $ 500,000 .", "label": "0"}
+{"example": "the armenian church will celebrate the feast of the ascension of our lord .", "label": "0"}
+{"example": "a cleveland browns employee was found dead .", "label": "0"}
+{"example": "david letterman takes time out to skewer you with his top ten .", "label": "0"}
+{"example": "baba ramdev was discharged from hospital .", "label": "0"}
+{"example": "action taken after receiving complaints against corruption", "label": "0"}
+{"example": "chris getz was held out of wednesday 's lineup he is expected .", "label": "0"}
+{"example": "coal prices steadied", "label": "0"}
+{"example": "team expects tackle pat williams to return in 2010 .", "label": "0"}
+{"example": "windstream corp. plans to cut 146 jobs in newton .", "label": "0"}
+{"example": "msha approved a wireless tracking system for use development", "label": "0"}
+{"example": "an arizona teenager died from h1n1 flu .", "label": "0"}
+{"example": "a cosmic flow , which is carrying along galaxy clusters in the universe , might be the tug of another universe .", "label": "0"}
+{"example": "kenny perry carded a to win by two strokes .", "label": "0"}
+{"example": "ricky gervais failed to impress his girlfriend .", "label": "0"}
+{"example": "trish was visiting some of her former wwe co - workers who work for tna .", "label": "0"}
+{"example": "the dalai lama has been denied a visa to meet with nobel laureates .", "label": "0"}
+{"example": "a voluntary water restriction - operative has been lifted .", "label": "0"}
+{"example": "the impact and tsunami on its vehicle production is affecting its parts suppliers in samoa .", "label": "0"}
+{"example": "has announced to fund four new health science projects .", "label": "0"}
+{"example": "npr announced it is ending talk of the nation .", "label": "0"}
+{"example": "kurtley beale will stand down .", "label": "0"}
+{"example": "wells fargo refinance mortgage rates are getting close .", "label": "0"}
+{"example": "a royal fleet auxiliary ship has disrupted a group of pirates .", "label": "0"}
+{"example": "revamped disco group the village people have been granted permission by a judge to continue performing .", "label": "0"}
+{"example": "shanthakumaran sreesanth had been woken up by his confrontation .", "label": "0"}
+{"example": "group has agreed to buy glg partners for $ 1.6 billion in a deal .", "label": "0"}
+{"example": "the bahamas is to import agricultural products from haiti .", "label": "0"}
+{"example": "floods have ruined poverty reduction programme at in some districts of sindh .", "label": "0"}
+{"example": "oprah winfrey has settled a defamation lawsuit .", "label": "0"}
+{"example": "sunny deol 's son karan will not enter films .", "label": "0"}
+{"example": "more than one third of borrowers add the arrangement fee .", "label": "0"}
+{"example": "mobile phone deals uk offers the latest deals in the united kingdom .", "label": "0"}
+{"example": "facebook intends to ban sponsored status updates .", "label": "0"}
+{"example": "a company is suing gordon ramsay after he .", "label": "0"}
+{"example": "kristen stewart admitted she feels pressure from .", "label": "0"}
+{"example": "thousands make positive changes .", "label": "0"}
+{"example": "bradley wiggins became to win the tour de france .", "label": "0"}
+{"example": "the contents of an employer 's email , sent to a applicant , allowed the applicant 's age bias claims held", "label": "0"}
+{"example": "an overnight fire gutted a florist shop .", "label": "0"}
+{"example": "an ottawa youth pastor is facing multiple charges of sexual exploitation .", "label": "0"}
+{"example": "india beat to win odi to take an 2 0 .", "label": "0"}
+{"example": "almost 20,000 ha of land -- the -- had been gazetted reserve .", "label": "0"}
+{"example": "troops should remain vigilant and maintain high degree of preparedness .", "label": "0"}
+{"example": "ricky ponting has apologised .", "label": "0"}
+{"example": "a westland man was arraigned on murder charges .", "label": "0"}
+{"example": "4156 - vivitek corporation debuts its line of home theater projectors at cedia .", "label": "0"}
+{"example": "independent maternal demographic factors such , can predict the likelihood", "label": "0"}
+{"example": "alex ovechkin is skipping the nhl all - star game .", "label": "0"}
+{"example": "pirelli has returned to formula 1 restarting with the .", "label": "0"}
+{"example": "bristol city have sacked derek mcinnes following .", "label": "0"}
+{"example": "a suspected pakistani infiltrator was killed by indian border guards .", "label": "0"}
+{"example": "billie piper uses a foot double when filming scenes for her show secret diary .", "label": "0"}
+{"example": "the conservative american journalist , author and andrew breitbart died .", "label": "0"}
+{"example": "derek jeter is set to begin a rehab assignment in trenton .", "label": "0"}
+{"example": "republicans renewed their attacks the , with one senator saying department should appoint a special prosecutor to investigate .", "label": "0"}
+{"example": "hear", "label": "0"}
+{"example": "waters single malt vodka has won a silver medal from institute", "label": "0"}
+{"example": "swedish scientists have succeeded in creating nerve cells from human skin for the .", "label": "0"}
+{"example": "5 new zealand troops began their withdrawal", "label": "0"}
+{"example": "obama will be to sign the stimulus bill .", "label": "0"}
+{"example": "the daily home newspaper requested inspection of water department documents .", "label": "0"}
+{"example": "an international coalition launched for ending the aids epidemic .", "label": "0"}
+{"example": "a small earthquake shook up hatfield .", "label": "0"}
+{"example": "firefighters say there are more than 50 fires burning in kern county .", "label": "0"}
+{"example": "a martinez man suspected ins was shot homeowner .", "label": "0"}
+{"example": "south africa will not be rushing heinrich brussow action .", "label": "0"}
+{"example": "cox is pushing to make the roster and earn playing time .", "label": "0"}
+{"example": "jennifer lopez and steven tyler announced they 're leaving american idol .", "label": "0"}
+{"example": "a wilmington man was wounded in a .", "label": "0"}
+{"example": "kacie boguskie talks tell all episode .", "label": "0"}
+{"example": "a woman has been hit on and robbed as she walked .", "label": "0"}
+{"example": "the pittsburgh pirates they will hold an open tryout camp at appalachian power park .", "label": "0"}
+{"example": "two incidents had police investigating a shooting a .", "label": "0"}
+{"example": "marjah - afghans raised their flag over a damaged market .", "label": "0"}
+{"example": "auburn university was awarded by as a stormready site .", "label": "0"}
+{"example": "a boat carrying 70 asylum seekers crashed into cliffs .", "label": "0"}
+{"example": "the iconic jaguar land rover opened its first vehicle assembly plant .", "label": "0"}
+{"example": "sourav ganguly decided to retire from all forms of cricket said .", "label": "0"}
+{"example": "new year 's eve will coincide with a lunar eclipse .", "label": "0"}
+{"example": "how life might evolve with exotic biochemistry solvents .", "label": "0"}
+{"example": "capco has developed an advanced sovereign debt default risk", "label": "0"}
+{"example": "maruti suzuki india announced about their hike in the prices .", "label": "0"}
+{"example": "the duke has celebrated his 89th birthday with a traditional gun salute .", "label": "0"}
+{"example": "vienna police are investigating a potential sex offense .", "label": "0"}
+{"example": "katy perry is the new face and partner of popchips snack .", "label": "0"}
+{"example": "a family has been left homeless following a fire .", "label": "0"}
+{"example": "stacey solomon is keen to host .", "label": "0"}
+{"example": "scott walker became the first governor .", "label": "0"}
+{"example": "", "label": "0"}
+{"example": "paula wriedt wo n't return to state parliament .", "label": "0"}
+{"example": "hips do n't lie shakira has announced she has given birth .", "label": "0"}
+{"example": "currency futures contracts were traded at the - sx .", "label": "0"}
+{"example": "lebanon opened an embassy in syria .", "label": "0"}
+{"example": "authorities have to presume there might be more .", "label": "0"}
+{"example": "asian shares ended mostly lower .", "label": "0"}
+{"example": "courtney robert pattinson to play kurt cobain .", "label": "0"}
+{"example": "burson - marsteller is shaking things up .", "label": "0"}
+{"example": "councils should not translate most of their publications into foreign languages .", "label": "0"}
+{"example": "portsmouth football club have admitted are likely to close .", "label": "0"}
+{"example": "for today`s trade , nifty is likely to trade in the range between 4,890 \\u0026 4,920 .", "label": "0"}
+{"example": "a new york dog took a bullet to the head to save his owner .", "label": "0"}
+{"example": "the republican candidates for municipal office will hold office hours", "label": "0"}
+{"example": "beer sales have slumped by almost 10 % .", "label": "0"}
+{"example": "prithviraj chavan ordered a judicial probe .", "label": "0"}
+{"example": "usdcad has reached the falling trend line .", "label": "0"}
+{"example": "ellen degeneres gave a ovation for his support of gay marriage .", "label": "0"}
+{"example": "boston scientific , has been assigned a patent developed by john mon .", "label": "0"}
+{"example": "conan o'brien sunk into a deep depression .", "label": "0"}
+{"example": "woods has claimed to be a sex addict .", "label": "0"}
+{"example": "he and david are expecting twins .", "label": "0"}
+{"example": "jon curran shot a 69 to move up to 49th place .", "label": "0"}
+{"example": "a drone attack a compound has killed at least .", "label": "0"}
+{"example": "says 40 militants killed in airstrikes and clashes .", "label": "0"}
+{"example": "adobe systems will deliver its first set of quarterly patches .", "label": "0"}
+{"example": "nataraj behera was awarded a cash prize .", "label": "0"}
+{"example": "samuel peter has been labelled a rabbit .", "label": "0"}
+{"example": "a police officer shot and killed a suspect at the fieldstone apartments .", "label": "0"}
+{"example": "israel will set up three centres of excellences in the state of gujarat .", "label": "0"}
+{"example": "emmy winner melissa mccarthy hosts snl , with lady antebellum .", "label": "0"}
+{"example": "hbo has renewed real time with bill maher .", "label": "0"}
+{"example": "eco tourism and it is important to brand sri lanka", "label": "0"}
+{"example": "mike lowell is heading to the disabled list .", "label": "0"}
+{"example": "the commerce commission has set maximum revenue levels .", "label": "0"}
+{"example": "jean ferrat banned from french radio and , has died at age 79 .", "label": "0"}
+{"example": "myroslav dykun has been banned for two years .", "label": "0"}
+{"example": "snooki is writing a book .", "label": "0"}
+{"example": "jude law has returned home to london .", "label": "0"}
+{"example": "brad pitt and angelina jolie have accepted damages to settle a privacy claim against a british tabloid .", "label": "0"}
+{"example": "foreign investors reduced their holdings of canadian securities .", "label": "0"}
+{"example": "ben roethlisberger practiced and will start after missing three games with a sternoclavicular injury .", "label": "0"}
+{"example": "the global shariah shipping fund will be launched .", "label": "0"}
+{"example": "she filed her nomination and is likely to get elected uncontested .", "label": "0"}
+{"example": "realtors are now demanding special residential zones .", "label": "0"}
+{"example": "hitachi data systems corporation conducted a daylong workshop", "label": "0"}
+{"example": "a bureaucratic bungle left dozens of students stranded .", "label": "0"}
+{"example": "the government has set up a special committee to find jobs for 50,000 foreign workers at petrol stations .", "label": "0"}
+{"example": "senior living inc. has entered a definitive asset purchase agreement", "label": "0"}
+{"example": "natural gas,0128 company wants to build pipeline eds", "label": "0"}
+{"example": "lohan pled not guilty to stealing a necklace .", "label": "0"}
+{"example": "the liberty party has complained mary broh .", "label": "0"}
+{"example": "amherstburg residents will begin to raise to buy the naming rights .", "label": "0"}
+{"example": "a criminal who set up fake companies to launder money has been sentenced to five years .", "label": "0"}
+{"example": "alex 's army enlisted the help to raise money for the storm lake girl .", "label": "0"}
+{"example": "bob griese apologized for his comment .", "label": "0"}
+{"example": "a horse in southwest florida has been diagnosed with a disease thought to be .", "label": "0"}
+{"example": "a colorado man used a chainsaw to fight off a mountain lion .", "label": "0"}
+{"example": "the only man to admit shooting malcolm x has been freed .", "label": "0"}
+{"example": "research published the journal of infection control shows privacy curtains may be contaminated .", "label": "0"}
+{"example": "lions dt ndamukong suh is being sued for more than $ 1 million in an court by a passenger .", "label": "0"}
+{"example": "ca n't judge a person by their shoes may be .", "label": "0"}
+{"example": "a girl died after she .", "label": "0"}
+{"example": "brendan fraser will make his broadway debut this fall in elling .", "label": "0"}
+{"example": "the full nba schedule will be released tuesday .", "label": "0"}
+{"example": "ways to worship god .", "label": "0"}
+{"example": "a woman has been gang raped by a group of 7 men in the changing room .", "label": "0"}
+{"example": "casey pachall threw for 206 yards .", "label": "0"}
+{"example": "philippine airlines unveiled an order of 54 airbus aircraft .", "label": "0"}
+{"example": "aer lingus pilots have voted for action .", "label": "0"}
+{"example": "north texas will get a new television station before the end .", "label": "0"}
+{"example": "former israeli president moshe katsav was convicted of raping an aide", "label": "0"}
+{"example": "nancy pelosi pulled the disclose act from the house floor after the news deals to exempt leaking .", "label": "0"}
+{"example": "congress will be briefed .", "label": "0"}
+{"example": "country singer mindy mccready was laid to rest in fort myers .", "label": "0"}
+{"example": "kenya has finished sixth on the the .", "label": "0"}
+{"example": "whirlpool corp. 's filed a infringement action lg electronics .", "label": "0"}
+{"example": "alex ferguson has warned patrick vieira .", "label": "0"}
+{"example": "both caddo and parishes have declared a state of emergency in response to relentlessly dry conditions fueling wildfires .", "label": "0"}
+{"example": "eva mendes says her dog would kill for her", "label": "0"}
+{"example": "central florida is working on a contract extension for george o'leary .", "label": "0"}
+{"example": "xunlei had postponed its initial public offering .", "label": "0"}
+{"example": "black cat commandos were deployed .", "label": "0"}
+{"example": "kimi raikkonen needed a miracle to retain his title following a prix .", "label": "0"}
+{"example": "what was his final set terry leahy unveiled a set .", "label": "0"}
+{"example": "the number of americans seeking unemployment aid rose 10,000 .", "label": "0"}
+{"example": "weekly bin bag collections will be retained the penryn area .", "label": "0"}
+{"example": "bo porter will be the guest on the astroline the offseason .", "label": "0"}
+{"example": "cenveo inc. completed its acquisition of nashua corporation .", "label": "0"}
+{"example": "tata teleservices has selected nokia siemens networks technology to support the launch", "label": "0"}
+{"example": "dolly parton been forced to cancel due to a back injury .", "label": "0"}
+{"example": "nepal went down meekly at the hands scotland .", "label": "0"}
+{"example": "a pastor 's nicole richie", "label": "0"}
+{"example": "authorities are investigating a weekend burglary in cayuga .", "label": "0"}
+{"example": "a fire and weather alert has been issued for much of state", "label": "0"}
+{"example": "highland park kept the top spot .", "label": "0"}
+{"example": "the central bank adopted additional measures for defending the rate .", "label": "0"}
+{"example": "peace envoy george mitchell left cairo to the usa", "label": "0"}
+{"example": "managers have voted to reduce halibut bycatch .", "label": "0"}
+{"example": "an iranian nuclear scientist was killed in the iranian capital tehran .", "label": "0"}
+{"example": "construction projects are being put .", "label": "0"}
+{"example": "man sentenced in sexual abuse of brooklyn boy an man .", "label": "0"}
+{"example": "asian stocks ended mostly lower .", "label": "0"}
+{"example": "the royal navy has captured 13 somali pirates .", "label": "0"}
+{"example": "john lawless contract was terminated on", "label": "0"}
+{"example": "egyptians were headed to the polls again .", "label": "0"}
+{"example": "the mavericks announced they have re - signed tim thomas .", "label": "0"}
+{"example": "monahans an indiana teen charged in connection with a triple homicide waived extradition .", "label": "0"}
+{"example": "sudanese ambassador called on salman taseer .", "label": "0"}
+{"example": "the united arab emirates was ranked internationally cyber", "label": "0"}
+{"example": "linkedin is opening its asia pacific headquarters in singapore .", "label": "0"}
+{"example": "rachel kim was arrested charged with device fraud of", "label": "0"}
+{"example": "eddie newton has joined the chelsea coaching staff for the rest .", "label": "0"}
+{"example": "supermodel miranda kerr is planning to take a break from modelling and says she wants to focus her energies .", "label": "0"}
+{"example": "authorities opened the second edition of a career fair for the students seekers in accra .", "label": "0"}
+{"example": "police are investigating a fatal teenage is linked to a similar murder .", "label": "0"}
+{"example": "the next president will need to do to address climate policy .", "label": "0"}
+{"example": "newsday islanders john tavares matures , finds his place with islanders", "label": "0"}
+{"example": "russia is to install explosives detectors .", "label": "0"}
+{"example": "bahraini police fired tear gas on hunger strikers", "label": "0"}
+{"example": "kim sharma is all set to tie the knot with her spanish boyfriend carlos martin .", "label": "0"}
+{"example": "frank melton is asking for more time to find a lawyer to represent .", "label": "0"}
+{"example": "factory orders increased 1.8 percent in december", "label": "0"}
+{"example": "a bloomington man died as a result of a road accident .", "label": "0"}
+{"example": "rk pachauri has been reelected by acclamation to a second term .", "label": "0"}
+{"example": "guy ritchie ended a court granted a quickie divorce .", "label": "0"}
+{"example": "a guernsey student has made through to the regional final of the 2010 rotary young chef .", "label": "0"}
+{"example": "transport , or the lack was the hot topic discussed by members and representatives of the elderly communities .", "label": "0"}
+{"example": "a new cardiac centre has opened in the sheikh khalifa medical city .", "label": "0"}
+{"example": "an amtrak train hit a car that crashed on the train tracks .", "label": "0"}
+{"example": "emi is to axe up to 2,000 jobs .", "label": "0"}
+{"example": "african leaders rose resolved to pursue electoral reforms .", "label": "0"}
+{"example": "two extraordinary rendition flights .", "label": "0"}
+{"example": "braves placed first baseman casey kotchman on the 15-day disabled list with a bruised shin .", "label": "0"}
+{"example": "dan carter has signed a deal with french perpignan .", "label": "0"}
+{"example": "the nhs is being sued for over bugs .", "label": "0"}
+{"example": "a grandfather who was found dead was involved in a altercation .", "label": "0"}
+{"example": "the battle over groundwater is about to reach new depths .", "label": "0"}
+{"example": "gossip girl will air its sixth season .", "label": "0"}
+{"example": "hi i have a / dalmation cross for sale need to find her a good home", "label": "0"}
+{"example": "a oncologist has pleaded guilty to importing unapproved drugs .", "label": "0"}
+{"example": "west indies routed bangladesh by nine wickets .", "label": "0"}
+{"example": "motorola has announced they are now going to stop manufacturing mobile phones in singapore .", "label": "0"}
+{"example": "about 13 % of are owned by foreigners", "label": "0"}
+{"example": "wolves have posted a healthy pre tax profit of \u00a3 2.16million .", "label": "0"}
+{"example": "a shreveport juvenile faces burglary charges .", "label": "0"}
+{"example": "an mp is calling parliament to ban liquid nitrogen cocktails .", "label": "0"}
+{"example": "eric hosmer has been promoted to the kansas city royals .", "label": "0"}
+{"example": "the kuwait fund pledged to disburse five million us dollars .", "label": "0"}
+{"example": "a devoted father plunged to his death in a parasailing accident on holiday in turkey .", "label": "0"}
+{"example": "apple has won a patent for touch screen controls weapon to protect its iphone .", "label": "0"}
+{"example": "two people were injured in an apple valley house fire .", "label": "0"}
+{"example": "a new contact centre has opened in sunderland .", "label": "0"}
+{"example": "\\u0026 odisha are against the implementation of neet .", "label": "0"}
+{"example": "hurricane igor may strengthen up .", "label": "0"}
+{"example": "putin warning ethnic tensions could tear russia apart .", "label": "0"}
+{"example": "petrol price was today slashed by rs 3 per litre .", "label": "0"}
+{"example": "asia fuel oil rose .", "label": "0"}
+{"example": "curry todd has apologized for a bad mistake .", "label": "0"}
+{"example": "uk factory production unexpectedly fell in january .", "label": "0"}
+{"example": "justice altamas kabir was sworn in as the new chief justice of india .", "label": "0"}
+{"example": "a young miami woman apologized for flipping off a judge , who dropped charges .", "label": "0"}
+{"example": "austin rivers 's pain - free and eager .", "label": "0"}
+{"example": "his bowlers need to look inside and see what went wrong .", "label": "0"}
+{"example": "a man pleaded guilty to a misdemeanor riot charge .", "label": "0"}
+{"example": "star chris brown , has been accused of shouting a homophobic slur .", "label": "0"}
+{"example": "us stocks opened mixed", "label": "0"}
+{"example": "ntpc 10 each has fixed the price . 201 per share .", "label": "0"}
+{"example": "currencies markets are very volatile", "label": "0"}
+{"example": "bc ferries is doubling the fuel surcharge .", "label": "0"}
+{"example": "ticketmaster president and ceo sean moriarty has resigned .", "label": "0"}
+{"example": "toyota motor corp. has completed work to increase its capacity in argentina to 92,000 units from 65,000 units .", "label": "0"}
+{"example": "austin has stepped down as their head coach .", "label": "0"}
+{"example": "p chidambaram today held a high level meeting with top officials .", "label": "0"}
+{"example": "aer lingus will add two new routes to italy .", "label": "0"}
+{"example": "unemployment registered in bulgaria is expected to be below 7 % , is the prognosis .", "label": "0"}
+{"example": "randy orton has to", "label": "0"}
+{"example": "european interest rates were cut .", "label": "0"}
+{"example": "brandon stokley acknowledged suffered his 10th concussion on his first catch against", "label": "0"}
+{"example": "a car rolled out of an auto shop and into a plaid pantry .", "label": "0"}
+{"example": "chris brown pleaded guilty to one count of felony assault .", "label": "0"}
+{"example": "the canadian dollar passed 97 cents propelled by strong commodity prices .", "label": "0"}
+{"example": "it 's spectacular 's great dance", "label": "0"}
+{"example": "lm otero the houston astros hired as their new general manager .", "label": "0"}
+{"example": "marc - andre fleury , tyler kennedy pascal dupuis delivered pizza to workers the construction", "label": "0"}
+{"example": "pa sangma has resigned from the .", "label": "0"}
+{"example": "entrust the company reaffirmed its stockholders vote .", "label": "0"}
+{"example": "the united states slapped sanctions on five senior libyan government officials .", "label": "0"}
+{"example": "there are events happening throughout the valley .", "label": "0"}
+{"example": "barack obama will be fair to and , without sacrificing american strategic interests", "label": "0"}
+{"example": "dell has launched its equallogic storage solutions .", "label": "0"}
+{"example": "the plain dealer will reduce home delivery of its edition to three days a week .", "label": "0"}
+{"example": "statewide tests will be phased out .", "label": "0"}
+{"example": "ips has reached a tentative contract deal with the teachers union .", "label": "0"}
+{"example": "ebay has made a couple changes to the ebay user agreement .", "label": "0"}
+{"example": "aviva is to cut up to 800 jobs .", "label": "0"}
+{"example": "the local housing authority is struggling to keep up with demand .", "label": "0"}
+{"example": "zimbabwe will host its first ever diaspora conference .", "label": "0"}
+{"example": "robbie williams has wants to appear on i .", "label": "0"}
+{"example": "warren buffett has been diagnosed with stage one prostate cancer .", "label": "0"}
+{"example": "a man was fatally struck by a street sweeper in brooklyn .", "label": "0"}
+{"example": "ted haggard is starting a new church in colorado springs .", "label": "0"}

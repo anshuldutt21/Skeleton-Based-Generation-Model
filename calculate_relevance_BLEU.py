@@ -35,6 +35,7 @@ def read_gold_true(read_file):
         new_out_queue.append(" ".join(sent_tokenize(text)[1:]))
     print ("length of gold test input: " + str(len(new_queue)))
     sys.stdout.flush()
+    print(new_out_queue)
 
 
     return new_queue, new_out_queue
@@ -121,5 +122,9 @@ gold_input, gold_output = read_gold_true("data/0/test.txt")
 path = "max_generated_final/test/"
 for i in range(31,0,-1):  
     print("the iterations: " +str(i))
-    read_file = codecs.open(path+ str(i) + "_negative/result.txt", "r", "utf-8")
-    read_generator(read_file, gold_input, gold_output)
+    try:
+        read_file = codecs.open(path+ str(i) + "_negative/result.txt", "r", "utf-8")
+        read_generator(read_file, gold_input, gold_output)
+        print(gold_output)
+    except:
+        continue

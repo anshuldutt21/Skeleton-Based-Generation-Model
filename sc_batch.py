@@ -243,7 +243,7 @@ class Sc_GenBatcher(object):
     def __init__(self, vocab, hps):
         self._vocab = vocab
         self._hps = hps
-        self.nlp = spacy.load('en')
+        self.nlp = spacy.load('en_core_web_sm')
 
 
         self.train_queue = self.fill_example_queue("data/trainfeature02.json")

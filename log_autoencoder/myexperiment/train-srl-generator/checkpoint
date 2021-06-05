@@ -1,0 +1,8 @@
+model_checkpoint_path: "model-210000"
+all_model_checkpoint_paths: "model-30000"
+all_model_checkpoint_paths: "model-60000"
+all_model_checkpoint_paths: "model-90000"
+all_model_checkpoint_paths: "model-120000"
+all_model_checkpoint_paths: "model-150000"
+all_model_checkpoint_paths: "model-180000"
+all_model_checkpoint_paths: "model-210000"
